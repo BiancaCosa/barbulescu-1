@@ -1544,7 +1544,7 @@ input, select, textarea {
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #d52349;
+		background: #1995dc;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1562,7 +1562,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #e53359;
+			background: #1995dc;
 		}
 
 		input[type="button"]:active,
@@ -1570,7 +1570,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #c51349;
+			background: #1995dc;
 		}
 
 		input[type="button"].alt,
@@ -1578,7 +1578,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #252122;
+			background: #1995dc;
 		}
 
 			input[type="button"].alt:hover,
@@ -1586,7 +1586,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #353132;
+				background: #1995dc;
 			}
 
 			input[type="button"].alt:active,
@@ -1594,7 +1594,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #151112;
+				background: #1995dc;
 			}
 
 		input[type="button"].icon:before,
@@ -2112,9 +2112,10 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #1995dc;
 				padding: 0;
 				font-style: normal;
+				font-weight: bolder;
 				margin: 0;
 				font-size: 1.5em;
 			}
