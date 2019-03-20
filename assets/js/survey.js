@@ -5,12 +5,15 @@ $(document).ready(function(){
     radioClass: 'iradio_square-blue',
   });
 
-  $( "#js-form-button" ).on( "click", function() {
-    $( ".iradio_square-blue" ).each(function( index ) {
-     // $( this ).getAttribute("aria-checked")
+    $( "#js-form-button" ).on( "click", function() {
+      $( ".qz-action" ).each(function( index ) {
+        var input = $( ".iradio_square-blue" ).each(function() { 
+        console.log( $( this ).hasClass('aria-checked') );
 
-      console.log( $( this ).hasClass('aria-disabled') );
+        });
     });
-    
+
   });
 });
+
+ 
