@@ -7,15 +7,17 @@ $(document).ready(function(){
 
    
   
-  $( "#js-form-button" ).on( "click", function() {
-    $( ".qz-action" ).each(function( index ) {
-      var input = $( ".iradio_square-blue" ).each(function() { 
-        console.log( $( this ).hasClass('aria-checked') );
+  $( "#js-form-button" ).onclick( function() {
+    var radioLooped = $('input[type=radio]');
+    if ( radioLooped.each(function (var i = 0; i < input.length; i++){
+      
 
-      });
-    });
 
+    ))});
+    
   });
+  
+   
 });
 
 
