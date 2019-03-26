@@ -24,11 +24,9 @@ $(document).ready(function(){
     if(radioChecked == 14 && radioCheckedTrue == 14)
       window.location = "privacy-safe.html"
     if(radioChecked < 14)
-      alert("oye que no has respondido todas")
+      alert("Deben estar todas las preguntas respondidas.")
     if(radioChecked == 14 && radioCheckedTrue < 14)
       window.location = "privacy-invaded.html"
-  
-
     console.log(checked)
     
   });
