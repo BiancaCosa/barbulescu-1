@@ -7,13 +7,29 @@ $(document).ready(function(){
 
    
   
-  $( "#js-form-button" ).onclick( function() {
-    var radioLooped = $('input[type=radio]');
-    if ( radioLooped.each(function (var i = 0; i < input.length; i++){
-      
+  $( "#js-form-button" ).on( 'click', function() {
+    var radioList = $('input[type=radio]');
+    var radioCheckedTrue = 0;
+    var radioChecked = 0;
 
+    radioList.each(function (index, radio){
+      if (radio.checked) 
+      radioChecked += 1
+        
+      if (radio.checked && radio.value == "1"){
+        radioCheckedTrue += 1 
+      }
+    });
 
-    ))});
+    if(radioChecked == 14 && radioCheckedTrue == 14)
+      window.location = "privacy-safe.html"
+    if(radioChecked < 14)
+      alert("oye que no has respondido todas")
+    if(radioChecked == 14 && radioCheckedTrue < 14)
+      window.location = "privacy-invaded.html"
+  
+
+    console.log(checked)
     
   });
   
