@@ -2,9 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
 
 /*
-	Dopetrope by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Hecho con mucho amor por Devscola y NoLegalTech <3 
 */
 
 html, body, div, span, applet, object,
@@ -157,7 +155,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #1995dc;
+		color: #E83830;
 		text-decoration: underline;
 	}
 
@@ -1544,8 +1542,8 @@ input, select, textarea {
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #1995dc;
-		color: #fff !important;
+		background: #241D1F;
+		color: #E83830 !important;
 		font-weight: 700;
 		outline: 0;
 		font-size: 1.1em;
@@ -1562,7 +1560,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #1995dc;
+			background: #000000;
 		}
 
 		input[type="button"]:active,
@@ -1570,7 +1568,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #1995dc;
+			background: #000000;
 		}
 
 		input[type="button"].alt,
@@ -1578,7 +1576,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #1995dc;
+			background: #000000;
 		}
 
 			input[type="button"].alt:hover,
@@ -1586,7 +1584,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #1995dc;
+				background: #000000;
 			}
 
 			input[type="button"].alt:active,
@@ -1594,7 +1592,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #1995dc;
+				background: #000000;
 			}
 
 		input[type="button"].icon:before,
@@ -2087,14 +2085,14 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #ffffff url("../../images/indice.jpg");
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: auto 110%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
 		padding: 8em 0;
-		margin: 4em 0 0 0;
+		margin: 2em 0 0 0;
 	}
 
 		#banner header {
@@ -2112,7 +2110,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #1995dc;
+				color: #fff;
 				padding: 0;
 				font-style: normal;
 				font-weight: bolder;

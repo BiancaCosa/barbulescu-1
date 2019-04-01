@@ -1,3 +1,6 @@
+/*
+	Hecho con mucho amor por Devscola y Nolegaltech <3
+*/
 $(document).ready(function(){
   
   $('input').iCheck({
@@ -6,11 +9,14 @@ $(document).ready(function(){
   });
 
   
-  $( "#js-form-button" ).click(function( event ) {
-      event.preventDefault();
-      $("html, body").animate({ scrollBottom: $($(this).attr(href="goup")).offset().bottom }, 500);
-  });
-  
+ 
+
+
+  document.getElementById("moreinfo").scrollIntoView(true);
+
+
+
+
   
   $( "#js-form-button" ).on( 'click', function(){
     var radioCheckedTrue = 0;
