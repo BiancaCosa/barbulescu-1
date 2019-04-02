@@ -9,15 +9,7 @@ $(document).ready(function(){
   });
 
   
- 
 
-
-  document.getElementById("moreinfo").scrollIntoView(true);
-
-
-
-
-  
   $( "#js-form-button" ).on( 'click', function(){
     var radioCheckedTrue = 0;
     var radioChecked = 0;
@@ -39,7 +31,6 @@ $(document).ready(function(){
     } else (radioChecked == 14 && radioCheckedTrue < 14);{
        window.location = "privacy-invaded.html"
     }
-     console.log(checked)
     
   });
 
