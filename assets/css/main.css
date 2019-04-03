@@ -155,7 +155,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #E83830;
+		color: #E52019;
 		text-decoration: underline;
 	}
 
@@ -1715,7 +1715,7 @@ input, select, textarea {
 
 		ul.contact li {
 			position: relative;
-			border-top: solid 1px #E83830;
+			border-top: solid 1px #E52019;
 			padding: 1.3em 0 1.3em 7em;
 		}
 
@@ -1796,7 +1796,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-facebook {
-					background: #E83830;
+					background: #E52019;
 				}
 
 					ul.social li a.fa-facebook:hover {
@@ -1804,7 +1804,7 @@ input, select, textarea {
 					}
 
 				ul.social li a.fa-twitter {
-					background: #E83830;
+					background: #E52019;
 				}
 
 					ul.social li a.fa-twitter:hover {
@@ -1812,7 +1812,7 @@ input, select, textarea {
 					}
 
 				ul.social li a.fa-dribbble {
-					background: #E83830;
+					background: #E52019;
 				}
 
 					ul.social li a.fa-dribbble:hover {
@@ -1820,7 +1820,7 @@ input, select, textarea {
 					}
 
 				ul.social li a.fa-linkedin {
-					background: #E83830;
+					background: #E52019;
 				}
 
 					ul.social li a.fa-linkedin:hover {
@@ -1828,7 +1828,7 @@ input, select, textarea {
 					}
 
 				ul.social li a.fa-tumblr {
-					background: #E83830;
+					background: #E52019;
 				}
 
 					ul.social li a.fa-tumblr:hover {
@@ -1836,7 +1836,7 @@ input, select, textarea {
 					}
 
 				ul.social li a.fa-google-plus {
-					background: #E83830;
+					background: #E52019;
 				}
 
 					ul.social li a.fa-google-plus:hover {
@@ -1866,7 +1866,7 @@ input, select, textarea {
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #E83830;
+			background-color: #E52019;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -1886,7 +1886,7 @@ input, select, textarea {
 				position: absolute;
 				bottom: -1.95em;
 				left: 0;
-				border-top: solid 2em #E83830;
+				border-top: solid 2em #E52019;
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
@@ -1969,7 +1969,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #E83830;
+					background: #E52019;
 					color: #fff !important;
 					font-weight: normal;
 				}
@@ -2164,7 +2164,7 @@ input, select, textarea {
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
-			color: #E83830;
+			color: #E52019;
 		}
 
 			#footer h2 a, #footer h3 a, #footer h4 a, #footer h5 a, #footer h6 a, #footer strong a, #footer b a {

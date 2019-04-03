@@ -41,14 +41,14 @@ body {
   width: 0;
 }
 .qz-wrapper li.active {
-  color: #1995dc;
+  color: #E52019;
   cursor: default;
 }
 .qz-wrapper li.active:before {
-  border: 2px solid #1995dc;
+  border: 2px solid #E52019;
 }
 .qz-wrapper li.done {
-  color: #1995dc;
+  color: #E52019;
   cursor: default;
 }
 .qz-wrapper li.done .icon-done {
@@ -58,11 +58,11 @@ body {
   display: none;
 }
 .qz-wrapper li.done:before {
-  background: #1995dc;
-  border: 2px solid #1995dc;
+  background: #E52019;
+  border: 2px solid #E52019;
 }
 .qz-wrapper li.done:after {
-  background: #1995dc;
+  background: #E52019;
 }
 .qz-wrapper li.disabled {
   cursor: default;
@@ -131,7 +131,6 @@ body {
 .qz-wrapper .qz-content .qz-text {
   padding: 10px 10px 10px 20px;
   display: table-cell;
-  horizontal-align: middle;
 }
 .qz-wrapper .qz-content .qz-action {
   background: #F8F8F8;

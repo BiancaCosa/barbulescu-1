@@ -11,8 +11,10 @@ $(document).ready(function(){
   
 
   $( "#js-form-button" ).on( 'click', function(){
+    const allTheQuestions = 14;
     var radioCheckedTrue = 0;
     var radioChecked = 0;
+    
 
     $('input[type=radio]').each(function (index, radio){
       if (radio.checked){
@@ -24,11 +26,11 @@ $(document).ready(function(){
       }
     }); 
 
-    if(radioChecked == 14 && radioCheckedTrue == 14){
+    if(radioChecked == allTheQuestions && radioCheckedTrue == allTheQuestions){
       window.location = "privacy-safe.html"
-    } else if(radioChecked < 14){
+    } else if (radioChecked < allTheQuestions){
        alert("Deben estar todas las preguntas respondidas.")
-    } else (radioChecked == 14 && radioCheckedTrue < 14);{
+    } else if (radioChecked == allTheQuestions && radioCheckedTrue < allTheQuestions){
        window.location = "privacy-invaded.html"
     }
     
