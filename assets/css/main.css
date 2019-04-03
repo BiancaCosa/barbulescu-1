@@ -1625,7 +1625,8 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 90%;
+			width: 40%;
+			margin: auto;
 		}
 
 		.image.centered {
