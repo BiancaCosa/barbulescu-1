@@ -7,6 +7,15 @@ html {
 body {
   padding: 20px;
 }
+
+#main {
+  background: none
+}
+
+section > :last-child, section:last-child, article > :last-child, article:last-child {
+  margin-bottom: 40px;
+}
+
 .qz-wrapper {
   width: 100%;
 }
