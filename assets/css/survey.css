@@ -9,7 +9,12 @@ body {
 }
 
 #main {
-  background: none
+  background: none;
+  padding: 4em 0 0 0;
+}
+
+.signature {
+	text-align: center;
 }
 
 section > :last-child, section:last-child, article > :last-child, article:last-child {
