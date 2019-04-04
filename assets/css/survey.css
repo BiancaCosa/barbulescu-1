@@ -131,6 +131,9 @@ body {
 .qz-wrapper .qz-content .qz-text {
   padding: 10px 10px 10px 20px;
   display: table-cell;
+  color: #000000;
+  font-style: normal;
+  font-size: 16px;
 }
 .qz-wrapper .qz-content .qz-action {
   background: #F8F8F8;
@@ -145,4 +148,8 @@ body {
   padding: 5px 5px 5px 10px;
   text-align: right;
   width: 100%;
+  color: #000000;
+  font-style: normal;
+  font-size: 16px;
 }
+

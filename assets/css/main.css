@@ -1445,7 +1445,7 @@ input, select, textarea {
 
 	form label {
 		display: block;
-		color: #252122;
+		color: #000000;
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -1516,6 +1516,10 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+		.box h1 {
+			color: #000000;
+		}
+
 		.box.post h2 {
 			font-size: 2.5em;
 			letter-spacing: -0.015em;
@@ -1544,7 +1548,7 @@ input, select, textarea {
 		border: 0;
 		border-radius: 5px;
 		background: #000000;
-		color: #E83830 !important;
+		color: #E52019 !important;
 		font-weight: 700;
 		outline: 0;
 		font-size: 1.1em;
@@ -1801,7 +1805,7 @@ input, select, textarea {
 				}
 
 					ul.social li a.fa-facebook:hover {
-						background: #241D1F;
+						background: #000000;
 					}
 
 				ul.social li a.fa-twitter {
@@ -1809,7 +1813,7 @@ input, select, textarea {
 				}
 
 					ul.social li a.fa-twitter:hover {
-						background: #241D1F;
+						background: #000000;
 					}
 
 				ul.social li a.fa-dribbble {
@@ -1817,7 +1821,7 @@ input, select, textarea {
 				}
 
 					ul.social li a.fa-dribbble:hover {
-						background: #241D1F;
+						background: #000000;
 					}
 
 				ul.social li a.fa-linkedin {
@@ -1825,7 +1829,7 @@ input, select, textarea {
 				}
 
 					ul.social li a.fa-linkedin:hover {
-						background: #241D1F;
+						background: #000000;
 					}
 
 				ul.social li a.fa-tumblr {
@@ -1833,7 +1837,7 @@ input, select, textarea {
 				}
 
 					ul.social li a.fa-tumblr:hover {
-						background: #241D1F;
+						background: #000000;
 					}
 
 				ul.social li a.fa-google-plus {
@@ -1841,7 +1845,7 @@ input, select, textarea {
 				}
 
 					ul.social li a.fa-google-plus:hover {
-						background: #241D1F;
+						background: #000000;
 					}
 
 /* Icons */
@@ -1893,11 +1897,11 @@ input, select, textarea {
 			}
 
 			.icon.featured.alt {
-				background-color: #252122;
+				background-color: #000000;
 			}
 
 				.icon.featured.alt:after {
-					border-top-color: #252122;
+					border-top-color: #000000;
 				}
 
 			.icon.featured.alt2 {
@@ -1926,7 +1930,7 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			color: #252122;
+			color: #000000;
 			font-weight: 900;
 			font-size: 2.5em;
 			letter-spacing: -0.035em;
@@ -1966,7 +1970,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
-					background: #241D1F;
+					background: #000000;
 				}
 
 				#nav > ul > li.current > a {
@@ -2026,7 +2030,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #ffffff url("../../images/indice.jpg");
+		background: #ffffff url("../../images/index.jpg");
 		background-position: center center;
 		background-size: auto 110%;
 		background-repeat: no-repeat;
@@ -2144,7 +2148,7 @@ input, select, textarea {
 
 	#footer {
 		position: relative;
-		color: #241D1F;
+		color: #000000;
 		padding: 4em 0;
 	}
 
@@ -2161,7 +2165,7 @@ input, select, textarea {
 		}
 
 		#footer a {
-			color: #241D1F;
+			color: #000000;
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
@@ -2173,7 +2177,7 @@ input, select, textarea {
 			}
 
 		#footer ul.contact li, #footer ul.dates li, #footer ul.divided li {
-			border-top-color: #241D1F;
+			border-top-color: #000000;
 			border-top-color: rgba(255, 255, 255, 0.05);
 		}
 

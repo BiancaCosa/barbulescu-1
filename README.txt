@@ -15,7 +15,7 @@ the communications monitoring of your company's employees is legal.
 
 
 
-* The index image is a picture from a wall art of the incredibly talented Xélon made in Valencia city.
+* The index image is a picture from a wall art of the incredibly talented Xélon, photographed in Valencia city.
 See more of his amazing work on xelonxlf.com
 
 
@@ -29,7 +29,7 @@ Made with love <3
 
 Credits:
 
-	Index Image:
+	Index page image by:
 		Xélon (xelonxlf.com)
 
 	Icons:
