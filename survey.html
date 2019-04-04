@@ -1,232 +1,215 @@
 <!DOCTYPE HTML>
 <!--
-	Hecho con mucho amor por Devscola y Nolegaltech <3
+  Hecho con mucho amor por Devscola y Nolegaltech <3
 -->
 <html>
-	<head>
-		<title>Barbulescu</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/survey.css" />
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/skins/square/blue.css" />
+  <head>
+    <title>Barbulescu</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/survey.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/skins/square/blue.css" />
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/icheck.js"></script>
-		<script type="text/javascript" src="assets/js/survey.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/icheck.js"></script>
+    <script type="text/javascript" src="assets/js/survey.js"></script>
 
-	</head>
-	<body class="left-sidebar is-preload">
-		<div id="page-wrapper">
+  </head>
+  <body class="left-sidebar is-preload">
+    <div id="page-wrapper">
 
-			<!-- Main -->
-				<section id="main">
-					<div class="container">
-						<div class="row">
-							<div class="col-4 col-12-medium">
+      <!-- Main -->
+      <section id="main">
+        <div class="container">
+          <div class="row">
 
-								<!-- Sidebar -->
-									<section class="box">
-										<a href="#" class="image featured"><img src="images/Nolegaltech.jpg" alt="" /></a>
-										
-										<header>
-											<p>El TEDH ha establecido en la Sentencia Barbulescu los requisitos para que las 
-												empresas puedan vigilar legalmente la actividad de sus trabajadores en ordenadores 
-												y otros equipos de empresa. Descubre si la vigilancia en tu empresa es legal haciendo 
-												el "test Barbulescu".</p>
-											<a href="#moreinfo" class="scroll">Pulsa si quieres saber más</a>
-										</header>
-									</section>
-							
-							</div>
-							<div class="col-8 col-12-medium imp-medium">
+            <div class="col-8 col-12-medium imp-medium">
+              <!-- Content -->
+              <article class="box post">
+                <a href="#" id="js-more-info-button" class=main></a>
+                <header>
+                  <h2>Test Barbulescu,</h2>
+                  <h3>comprueba si están respetando tu intimidad en el trabajo.</h3>
+                </header>
+                <div class="qz-wrapper">
+                  <div class="qz-content">
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        1. ¿Ha sido informado el trabajador de la posibilidad de que se monitoricen sus comunicaciones?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_monitor" id="question_monitor_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_monitor" id="question_monitor_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        2. ¿Se ha informado al trabajador de la puesta en práctica de esta vigilancia, antes de aplicarla?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_implementation" id="question_implementation_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_implementation" id="question_implementation_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        3. ¿Se ha informado al trabajador acerca de si la vigilancia afecta al flujo de comunicaciones, o al contenido de las mismas?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_surveillance" id="question_surveillance_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_surveillance" id="question_surveillance_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        4. ¿Se ha informado al trabajador sobre si se vigilan todas las comunicaciones o solo una parte?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_monitorized" id="question_monitorized_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_monitorized" id="question_monitorized_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        5. ¿Se ha informado al trabajador del tiempo durante el que se prolongarán las medidas de vigilancia?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_notified" id="question_notified_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_notified" id="question_notified_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        6. ¿Se ha informado al trabajador de las personas que podrán acceder al resultado de esta vigilancia?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_notified_result" id="question_notified_result_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_notified_result" id="question_notified_result_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        7. ¿Se ha informado al trabajador del uso o destino final de las medidas de control?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_measures_of_control" id="question_measures_of_control_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_measures_of_control" id="question_measures_of_control_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        8. ¿Existen motivos de seguridad de la empresa para aplicar esta vigilancia?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_safety_reasons" id="question_safety_reasons_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_safety_reasons" id="question_safety_reasons_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        9. ¿Tiene la empresa otro motivo legítimo y suficiente -distinto de la seguridad- para este control?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_legitimate_reason" id="question_legitimate_reason_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_legitimate_reason" id="question_legitimate_reason_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        10. ¿Son adecuadas las medidas de vigilancia aplicadas para este fin?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_suitable_reasons" id="question_suitable_reasons_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_suitable_reasons" id="question_suitable_reasons_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        11. ¿Existen otras formas de control menos intrusivas, que no conlleven el acceso a las comunicaciones?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_less_measures" id="question_less_measures_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_less_measures" id="question_less_measures_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        12. ¿Las consecuencias derivadas de la vigilancia para el trabajador son acordes al fin de la vigilancia que se le comunicó?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_consequences_monitoring" id="question_consequences_monitoring_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_consequences_monitoring" id="question_consequences_monitoring_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        13. ¿Ha contado el trabajador con garantías una vez obtenidos los resultados de la monitorización?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_provided_safeguards" id="question_provided_safeguards_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_provided_safeguards" id="question_provided_safeguards_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                    <div class="qz-item">
+                      <div class="qz-text">
+                        14. ¿Se ha informado al trabajador del acceso a los resultados de la monitorización?
+                      </div>
+                      <div class="qz-action">
+                        <div class="qz-radio"><input type="radio" name="question_results_monitoring" id="question_results_monitoring_yes" value="1"/> <label for="qaction1">Yes</label></div>
+                        <div class="qz-radio"><input type="radio" name="question_results_monitoring" id="question_results_monitoring_no" value="0"/> <label for="qaction2">No</label></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <footer>
+                  <a href="#" id="js-form-button" class="button">¡Enviar respuestas!</a>
+                </footer>
+            </div>
+            <div class="col-4 col-12-medium">
+              <!-- Sidebar -->
+              <section class="box">
+                <a href="#" class="image featured"><img src="images/Nolegaltech.jpg" alt="" /></a>
 
-								<!-- Content -->
-							 <article class="box post">
-										<a href="#" id="js-more-info-button" class=main></a> 
-										<header>
-											<h1>Test Barbulescu,</h1>
-											<h3>comprueba si están respetando tu intimidad en el trabajo.</h3>
-										</header>
-											<div class="qz-wrapper">
-												<div class="qz-content"> 
-													<div class="qz-item">
-														<div class="qz-text">
-														1. ¿Ha sido informado el trabajador de la posibilidad de que se monitoricen sus comunicaciones?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_monitor" id="question_monitor_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_monitor" id="question_monitor_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-														2. ¿Se ha informado al trabajador de la puesta en práctica de esta vigilancia, antes de aplicarla?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_implementation" id="question_implementation_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_implementation" id="question_implementation_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-														3. ¿Se ha informado al trabajador acerca de si la vigilancia afecta al flujo de comunicaciones, o al contenido de las mismas?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_surveillance" id="question_surveillance_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_surveillance" id="question_surveillance_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													 <div class="qz-item">
-														<div class="qz-text">
-													 4. ¿Se ha informado al trabajador sobre si se vigilan todas las comunicaciones o solo una parte? 
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_monitorized" id="question_monitorized_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_monitorized" id="question_monitorized_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-														5. ¿Se ha informado al trabajador del tiempo durante el que se prolongarán las medidas de vigilancia?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_notified" id="question_notified_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_notified" id="question_notified_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-												 	6. ¿Se ha informado al trabajador de las personas que podrán acceder al resultado de esta vigilancia?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_notified_result" id="question_notified_result_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_notified_result" id="question_notified_result_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 7. ¿Se ha informado al trabajador del uso o destino final de las medidas de control?          
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_measures_of_control" id="question_measures_of_control_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_measures_of_control" id="question_measures_of_control_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 8. ¿Existen motivos de seguridad de la empresa para aplicar esta vigilancia?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_safety_reasons" id="question_safety_reasons_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_safety_reasons" id="question_safety_reasons_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 9. ¿Tiene la empresa otro motivo legítimo y suficiente -distinto de la seguridad- para este control? 
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_legitimate_reason" id="question_legitimate_reason_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_legitimate_reason" id="question_legitimate_reason_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 10. ¿Son adecuadas las medidas de vigilancia aplicadas para este fin?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_suitable_reasons" id="question_suitable_reasons_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_suitable_reasons" id="question_suitable_reasons_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 11. ¿Existen otras formas de control menos intrusivas, que no conlleven el acceso a las comunicaciones? 
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_less_measures" id="question_less_measures_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_less_measures" id="question_less_measures_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 12. ¿Las consecuencias derivadas de la vigilancia para el trabajador son acordes al fin de la vigilancia que se le comunicó?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_consequences_monitoring" id="question_consequences_monitoring_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_consequences_monitoring" id="question_consequences_monitoring_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-													 13. ¿Ha contado el trabajador con garantías una vez obtenidos los resultados de la monitorización?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_provided_safeguards" id="question_provided_safeguards_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_provided_safeguards" id="question_provided_safeguards_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-													<div class="qz-item">
-														<div class="qz-text">
-												 	14. ¿Se ha informado al trabajador del acceso a los resultados de la monitorización?
-														</div>
-														<div class="qz-action">
-															<div class="qz-radio"><input type="radio" name="question_results_monitoring" id="question_results_monitoring_yes" value="1"/> <label for="qaction1">Yes</label></div>
-															<div class="qz-radio"><input type="radio" name="question_results_monitoring" id="question_results_monitoring_no" value="0"/> <label for="qaction2">No</label></div>
-														</div>
-													</div>
-												</div>
-										</div>
-										<footer>
-												<a href="#" id="js-form-button" class="button">¡Enviar respuestas!</a>
-										</footer>		
-									</div>
-									</div>
-									</div>
-										<!-- Footer -->
-									<section class="box">
-
-									<div class="container">
-										<div class="col-8 col-12-medium">
-									<section id= "moreinfo">
-										<header>
-											<h2>Por si quieres saber más...</h2>
-										</header>
-										<p> Actualmente muchos puestos de trabajo dependen de un ordenador, que es la herramienta principal de trabajo de muchos trabajadores y trabajadoras. 
-											¿Pueden las empresa vigilar las comunicaciones de sus trabajadores a través de los ordenadores de la compañía? ¿Incluso cuando son conversaciones privadas, ajenas al trabajo?
-											El 5 de de septiembre de 2017 la Gran Sala del Tribunal Europeo de Derechos Humanos dictó una Sentencia en la que establece los requisitos para que una empresa en Europa pueda vigilar legalmente las comunicaciones de sus trabajadores a través de los ordenadores de la empresa.
-											Los criterios de la sentencia se conocen como "Test Barbulescu": a continuación puedes contestar las preguntas para comprobar si la vigilancia de comunicaciones de los empleados de tu empresa es legal.
-										</p>	
-									 </section>
-									<header>
-									<h3>Algunos links de interés:</h3>
-									</header>
-									<ul class="divided"></ul>
-										<li><a href="http://portal.ugt.org/actualidad/2017/NEG_COL_NUM_31/S5.pdf">Sentencia Barbulescu II en español</a></li>
-										<li><a href="http://hudoc.echr.coe.int/spa?i=001-177082">Sentencia en inglés y francés</a></li>
-										<li><a href="https://www.echr.coe.int/Documents/Press_Q_A_Barbulescu_ENG.PDF">Nota de prensa del TEDH con resumen de la sentencia</a></li>
-										<li><a href="https://confilegal.com/20180327-el-supremo-unifica-su-doctrina-con-la-sentencia-barbulescu-ii-sobre-el-control-empresarial-del-correo-electronico/">El Tribunal Supremo unifica doctrina según Barbulescu</a></li>
-									<footer>
-											<ul class="actions">
-												<li><a href="#" class="scroll">Volver arriba</a></li>
-											</ul>
-									</footer>
-									</ul>	
-							</article>								
-				 
-					<!-- Copyright -->
-					<section class="box">
-							<div id="copyright">
-								<ul class="links">
-								<li>Hecho con amor <a href="http://www.devscola.org">Devscola</a></li><li><a href="http://www.Nolegaltech.com">:NO{legaltech}</a></li>
-								</ul>
-							</div>
-						</section>
-							</div>
-						</div>
-					</div>
-				
-		</div>
-	</body>
+                <header>
+                  <p>El TEDH ha establecido en la Sentencia Barbulescu los requisitos para que las
+                  empresas puedan vigilar legalmente la actividad de sus trabajadores en ordenadores
+                  y otros equipos de empresa. Descubre si la vigilancia en tu empresa es legal haciendo
+                  el "test Barbulescu".</p>
+                  <a href="#moreinfo" class="scroll">Pulsa si quieres saber más</a>
+                </header>
+              </section>
+            </div>
+            <div class="col-12 col-12-medium">
+              <article class="box post" id="moreinfo">
+                <header>
+                  <h2>Por si quieres saber más...</h2>
+                </header>
+                <p> Actualmente muchos puestos de trabajo dependen de un ordenador, que es la herramienta principal de trabajo de muchos trabajadores y trabajadoras.
+                ¿Pueden las empresa vigilar las comunicaciones de sus trabajadores a través de los ordenadores de la compañía? ¿Incluso cuando son conversaciones privadas, ajenas al trabajo?
+                El 5 de de septiembre de 2017 la Gran Sala del Tribunal Europeo de Derechos Humanos dictó una Sentencia en la que establece los requisitos para que una empresa en Europa pueda vigilar legalmente las comunicaciones de sus trabajadores a través de los ordenadores de la empresa.
+                Los criterios de la sentencia se conocen como "Test Barbulescu": a continuación puedes contestar las preguntas para comprobar si la vigilancia de comunicaciones de los empleados de tu empresa es legal.
+                </p>
+                <h3>Algunos links de interés:</h3>
+                <ul class="divided"></ul>
+                <li><a href="http://portal.ugt.org/actualidad/2017/NEG_COL_NUM_31/S5.pdf">Sentencia Barbulescu II en español</a></li>
+                <li><a href="http://hudoc.echr.coe.int/spa?i=001-177082">Sentencia en inglés y francés</a></li>
+                <li><a href="https://www.echr.coe.int/Documents/Press_Q_A_Barbulescu_ENG.PDF">Nota de prensa del TEDH con resumen de la sentencia</a></li>
+                <li><a href="https://confilegal.com/20180327-el-supremo-unifica-su-doctrina-con-la-sentencia-barbulescu-ii-sobre-el-control-empresarial-del-correo-electronico/">El Tribunal Supremo unifica doctrina según Barbulescu</a></li>
+                <footer>
+                  <ul class="actions">
+                    <li><a href="#" class="scroll">Volver arriba</a></li>
+                  </ul>
+                </footer>
+                </ul>
+              </article>
+            </div>
+          </div> <!--end row -->
+        </div> <!-- end container -->
+        <div class="signature">
+          <p>Hecho con ♥  por <a href="http://www.devscola.org">Devscola</a> y <a href="http://www.Nolegaltech.com">:NO{legaltech}</a></p>
+        </div>
+      </section>
+    </div>
+  </body>
 </html>

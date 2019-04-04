@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
 
 /*
-	Hecho con mucho amor por Devscola y NoLegalTech <3 
+	Hecho con mucho amor por Devscola y NoLegalTech <3
 */
 
 html, body, div, span, applet, object,
@@ -133,7 +133,7 @@ input, select, textarea {
 	blockquote {
 		border-left: solid 0.75em #dddddd;
 		padding: 1em 0 1em 1.5em;
-		font-style: italic;  
+		font-style: italic;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -218,7 +218,7 @@ input, select, textarea {
 
 		}
 
-/* Row */ 
+/* Row */
 
 	.row {
 		display: flex;
@@ -659,7 +659,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 50px 0 0 50px;
+						padding: 0px 0 0 50px;
 					}
 
 					.row.gtr-uniform {
@@ -1450,7 +1450,7 @@ input, select, textarea {
 		margin: 0 0 0.5em 0;
 	}
 
-	
+
 
 /* Section/Article */
 
@@ -1508,7 +1508,7 @@ input, select, textarea {
 			width: auto;
 			left: 1.75em;
 			top: 1.75em;
-			margin: -4.5em 0 4.25em -3.5em;
+			margin: 0 0 4.25em -3.5em;
 		}
 
 		.box.post header {
@@ -1917,7 +1917,7 @@ input, select, textarea {
 	#page-wrapper > section {
 		margin-bottom: 0;
 	}
-	  
+
 
 /* Header */
 

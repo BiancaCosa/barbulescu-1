@@ -7,6 +7,20 @@ html {
 body {
   padding: 20px;
 }
+
+#main {
+  background: none;
+  padding: 4em 0 0 0;
+}
+
+.signature {
+	text-align: center;
+}
+
+section > :last-child, section:last-child, article > :last-child, article:last-child {
+  margin-bottom: 40px;
+}
+
 .qz-wrapper {
   width: 100%;
 }
