@@ -14,13 +14,12 @@ body {
 }
 
 .signature {
-	text-align: center;
+  text-align: center;
 }
 
 section > :last-child, section:last-child, article > :last-child, article:last-child {
   margin-bottom: 40px;
 }
-
 .qz-wrapper {
   width: 100%;
 }
@@ -148,6 +147,7 @@ section > :last-child, section:last-child, article > :last-child, article:last-c
   color: #000000;
   font-style: normal;
   font-size: 16px;
+
 }
 .qz-wrapper .qz-content .qz-action {
   background: #F8F8F8;
@@ -166,4 +166,7 @@ section > :last-child, section:last-child, article > :last-child, article:last-c
   font-style: normal;
   font-size: 16px;
 }
-
+span{
+  font-weight: bold;
+  color: #E52019;
+}
