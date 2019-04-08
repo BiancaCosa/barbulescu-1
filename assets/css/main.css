@@ -72,6 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
+
 /* Basic */
 
 	html {
@@ -139,6 +140,8 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
 		font-weight: 700;
+		margin-top: 0.6em;
+
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -175,13 +178,16 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 2em;
+		color: #000000;
+		margin-bottom: 1em;
 	}
 
 	.signature {
 		text-align: left;
 		margin-left: 2em;
-	  }
+	}			
+
+	  
 
 /* Container */
 
@@ -1494,6 +1500,7 @@ input, select, textarea {
 				display: inline;
 				margin: 0;
 				padding: 0 1em 0 1em;
+				
 			}
 
 	footer {
@@ -1522,12 +1529,15 @@ input, select, textarea {
 		}
 
 		.box h1 {
-			color: #000000;
+			font-size: 3.5em;
+			letter-spacing: -0.015em;
+			color: #E52019;
 		}
 
 		.box.post h2 {
-			font-size: 2.5em;
+			font-size: 2.0em;
 			letter-spacing: -0.015em;
+			line-height: 100%;
 		}
 
 		.box.post header > p {
