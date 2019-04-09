@@ -1467,7 +1467,9 @@ input, select, textarea {
 
 	section, article {
 		margin-bottom: 2.5em;
+		margin-left: 
 	}
+
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
 			margin-bottom: 0;
@@ -1562,8 +1564,8 @@ input, select, textarea {
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #000000;
-		color: #E52019 !important;
+		background: #E52019;
+		color: #000000 !important;
 		font-weight: 700;
 		outline: 0;
 		font-size: 1.1em;
@@ -1580,7 +1582,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #241D1F;
+			background: #E83830;
 		}
 
 		input[type="button"]:active,
@@ -1588,7 +1590,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #241D1F;
+			background: #E83830;
 		}
 
 		input[type="button"].alt,
@@ -1596,7 +1598,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #241D1F;
+			background: #E83830;
 		}
 
 			input[type="button"].alt:hover,
@@ -1604,7 +1606,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #241D1F;
+				background: #E83830;
 			}
 
 			input[type="button"].alt:active,
@@ -1612,7 +1614,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #241D1F;
+				background: #E83830;
 			}
 
 		input[type="button"].icon:before,
