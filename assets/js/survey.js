@@ -6,6 +6,8 @@ $(document).ready(function(){
   initializeICheck();
 
   initializeSubmitButton();
+
+  initializeDropDown();
   
 });
 
@@ -17,6 +19,13 @@ function initializeICheck(){
   });
 };
 
+function initializeDropDown(){
+  $('#nav > ul').dropotron({
+    mode: 'fade',
+    noOpenerFade: true,
+    alignment: 'center'
+  });
+};
 
 function initializeSubmitButton(){
   $( "#submit-button" ).on( 'click', function(){
