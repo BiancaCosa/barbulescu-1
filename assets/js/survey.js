@@ -1,22 +1,32 @@
 /*
-	Hecho con mucho amor por Devscola y Nolegaltech <3
+	  Hecho con mucho amor por Devscola y Nolegaltech <3
 */
 $(document).ready(function(){
 
-  initializeICheck();
+    initializeICheck();
 
-  initializeSubmitButton();
+    initializeSubmitButton();
 
-  initializeDropDown();
+    initializeDropDown();
+    
+    initializeTranslate();
   
 });
 
+function initializeTranslate(){
+  $.MultiLanguage('translations.json');
+
+  $( '#en' ).on( 'click', function(){
+    $.MultiLanguage('translations.json', 'en')
+
+  }); 
+};
 
 function initializeICheck(){
-  $('input').iCheck({
-    checkboxClass: 'icheckbox_square',
-    radioClass: 'iradio_square-blue',
-  });
+    $('input').iCheck({
+        checkboxClass: 'icheckbox_square',
+        radioClass: 'iradio_square-blue',
+    });
 };
 
 function initializeDropDown(){

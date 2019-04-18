@@ -1,0 +1,29 @@
+{
+
+    "config": {
+    "default": "es"
+    },
+
+    "language": {
+        "es": {
+        "#demo": "Hola Mundo"
+        },
+
+        "en": {
+        "#demo": "Hello World"
+        },
+
+        "fr": {
+        "#demo": "Bonjour le Monde"
+        },
+
+        "it": {
+        "#demo": "Ciao Mondo"
+        },
+
+        "de": {
+        "#demo": "Hallo Welt"
+        }
+      }
+    }
+    

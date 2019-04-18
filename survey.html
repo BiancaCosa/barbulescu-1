@@ -13,10 +13,11 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="jquery.MultiLanguage.min.js"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/icheck.js"></script>
         <script type="text/javascript" src="assets/js/survey.js"></script>
         <script type="text/javascript" src="assets/js/jquery.dropotron.min.js"></script>
-        
+      
     </head>
     <body class="left-sidebar is-preload">
         <div id="page-wrapper">
@@ -24,16 +25,13 @@
             <nav id="nav">
                 <ul>
                     <li class="current">
-                        <a href="#">Idiomas</a>
+                        <a href="#" id="languageDropDown">Idiomas</a>
                         <ul>
-                            <li><a href="#">Español</a></li>
-                            <li><a href="#">Catalán - Catalá</a></li>
-                            <li><a href="#">Gallego - Galego</a></li>
-                            <li><a href="#">Euskera - Euskal</a></li>
-                            <li><a href="#">Inglés - English</a></li>
-                            <li><a href="#">Francés - Francais</a></li>
-                            <li><a href="#">Italiano - Italiano</a></li>
-                            <li><a href="#">Alemán - Deutsch</a></li>
+                            <li><a href="#" id="es">Español</a></li>
+                            <li><a href="#" id="en">Inglés - English</a></li>
+                            <li><a href="#" id="fr">Francés - Francais</a></li>
+                            <li><a href="#" id="it">Italiano - Italiano</a></li>
+                            <li><a href="#" id="de">Alemán - Deutsch</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -48,6 +46,7 @@
                             <a href="#" id="js-more-info-button" class=main></a>
                                 <header>
                                     <h1>Test Barbulescu,</h1>
+                                    <h1 id="demo">Hola Mundo</h1>
                                     <h3>comprueba si están respetando tu intimidad en el trabajo.</h3>
                                 </header>
                             <div class="qz-wrapper">
@@ -205,29 +204,30 @@
                                     <h2>Por si quieres saber más...</h2>
                                 </header>
                                 <p> Actualmente muchos puestos de trabajo dependen de un ordenador, que es la herramienta principal de trabajo de muchos trabajadores y trabajadoras.
-                                ¿Pueden las empresa vigilar las comunicaciones de sus trabajadores a través de los ordenadores de la compañía? ¿Incluso cuando son conversaciones privadas, ajenas al trabajo?
-                                El 5 de de septiembre de 2017 la Gran Sala del Tribunal Europeo de Derechos Humanos dictó una Sentencia en la que establece los requisitos para que una empresa en Europa pueda vigilar legalmente las comunicaciones de sus trabajadores a través de los ordenadores de la empresa.
-                                Los criterios de la sentencia se conocen como "Test Barbulescu": a continuación puedes contestar las preguntas para comprobar si la vigilancia de comunicaciones de los empleados de tu empresa es legal.
+                                    ¿Pueden las empresa vigilar las comunicaciones de sus trabajadores a través de los ordenadores de la compañía? ¿Incluso cuando son conversaciones privadas, ajenas al trabajo?
+                                    El 5 de de septiembre de 2017 la Gran Sala del Tribunal Europeo de Derechos Humanos dictó una Sentencia en la que establece los requisitos para que una empresa en Europa pueda vigilar legalmente las comunicaciones de sus trabajadores a través de los ordenadores de la empresa.
+                                    Los criterios de la sentencia se conocen como "Test Barbulescu": a continuación puedes contestar las preguntas para comprobar si la vigilancia de comunicaciones de los empleados de tu empresa es legal.
                                 </p>
                                 <h3>Algunos links de interés:</h3>
-                                <ul class="divided"></ul>
-                                <li><a href="http://portal.ugt.org/actualidad/2017/NEG_COL_NUM_31/S5.pdf">Sentencia Barbulescu II en español</a></li>
-                                <li><a href="http://hudoc.echr.coe.int/spa?i=001-177082">Sentencia en inglés y francés</a></li>
-                                <li><a href="https://www.echr.coe.int/Documents/Press_Q_A_Barbulescu_ENG.PDF">Nota de prensa del TEDH con resumen de la sentencia</a></li>
-                                <li><a href="https://confilegal.com/20180327-el-supremo-unifica-su-doctrina-con-la-sentencia-barbulescu-ii-sobre-el-control-empresarial-del-correo-electronico/">El Tribunal Supremo unifica doctrina según Barbulescu</a></li>
+                                <ul>
+                                    <li><a href="http://portal.ugt.org/actualidad/2017/NEG_COL_NUM_31/S5.pdf">Sentencia Barbulescu II en español</a></li>
+                                    <li><a href="http://hudoc.echr.coe.int/spa?i=001-177082">Sentencia en inglés y francés</a></li>
+                                    <li><a href="https://www.echr.coe.int/Documents/Press_Q_A_Barbulescu_ENG.PDF">Nota de prensa del TEDH con resumen de la sentencia</a></li>
+                                    <li><a href="https://confilegal.com/20180327-el-supremo-unifica-su-doctrina-con-la-sentencia-barbulescu-ii-sobre-el-control-empresarial-del-correo-electronico/">El Tribunal Supremo unifica doctrina según Barbulescu</a></li>
+                                </ul>
                                 <footer>
-                                <ul class="actions">
-                                    <li><a href="#" class="scroll">Volver arriba</a></li>
-                                </ul>
+                                    <ul class="actions">
+                                        <li><a href="#" class="scroll">Volver arriba</a></li>
+                                    </ul>
                                 </footer>
-                                </ul>
                             </article>
                       </div>  <!--end row -->
                     </div>  <!-- end container -->
                     <div class="signature">
                             <p>Hecho con
                                 <i class="fas fa-heart" id="icons"></i> & <i class="fas fa-coffee"></i>
-                                por <a href="http://www.devscola.org">Devscola</a> y <a href="http://www.Nolegaltech.com">:NO{legaltech}</a></p>
+                                por <a href="http://www.devscola.org">Devscola</a> y <a href="http://www.Nolegaltech.com">:NO{legaltech}</a>
+                            </p>
                     </div>
                 </div>
             </section>
