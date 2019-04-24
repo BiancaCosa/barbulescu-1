@@ -6,21 +6,24 @@ $(document).ready(function(){
     initializeICheck();
 
     initializeSubmitButton();
-
-    initializeDropDown();
     
     initializeTranslate();
+
+    chooseLangToTranslate();
   
 });
 
 function initializeTranslate(){
-  $.MultiLanguage('translations.json');
-
-  $( '#en' ).on( 'click', function(){
-    $.MultiLanguage('translations.json', 'en')
-
-  }); 
+  $.MultiLanguage('assets/js/translations.json');
 };
+
+function chooseLangToTranslate(){
+  $( '#jq-dropdown-1' ).on( 'click', function(){
+    $.MultiLanguage('assets/js/translations.json', 'en')
+  
+  });
+}
+ 
 
 function initializeICheck(){
     $('input').iCheck({
@@ -29,13 +32,6 @@ function initializeICheck(){
     });
 };
 
-function initializeDropDown(){
-  $('#nav > ul').dropotron({
-    mode: 'fade',
-    noOpenerFade: true,
-    alignment: 'center'
-  });
-};
 
 function initializeSubmitButton(){
   $( "#submit-button" ).on( 'click', function(){
