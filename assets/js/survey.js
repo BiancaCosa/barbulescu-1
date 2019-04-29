@@ -2,7 +2,7 @@
 	  Hecho con mucho amor por Devscola y Nolegaltech <3
 */
 $(document).ready(function(){
-
+  $.MultiLanguage('assets/js/translations.json');
     initializeICheck();
 
     initializeSubmitButton();
@@ -18,11 +18,35 @@ function initializeTranslate(){
 };
 
 function chooseLangToTranslate(){
-  $( '#jq-dropdown-1' ).on( 'click', function(){
-    $.MultiLanguage('assets/js/translations.json', 'en')
-  
+  $.extend($.fn, {
+      jq-dropdown: function (method, data) {
+
+          switch (method) {
+              case 'click':
+                  click(null, $(this));
+                  console.log($(this))
+                  return $.MultiLanguage('assets/js/translations.json', $(this));
+              case 'show':
+                  show(null, $(this));   
+              case 'hide':
+                  hide();
+                  return $(this);
+              case 'attach':
+                  return $(this).attr('data-jq-dropdown', data);
+              case 'detach':
+                  hide();
+                  return $(this).removeAttr('data-jq-dropdown');
+              case 'disable':
+                  return $(this).addClass('jq-dropdown-disabled');
+              case 'enable':
+                  hide();
+                  return $(this).removeClass('jq-dropdown-disabled');
+          }
+
+      }
   });
-}
+   
+};
  
 
 function initializeICheck(){

@@ -24,14 +24,14 @@
     <body class="left-sidebar is-preload">
         <div id="page-wrapper">
          <!-- Dropdown Languages-->
-         <input type="button" value="Traductions" data-jq-dropdown="#jq-dropdown-1" />
-            <div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-tip">
+         <input type="button" value="Traductions" data-jq-dropdown="#jq-dropdown" />
+            <div id="jq-dropdown" class="jq-dropdown jq-dropdown-tip">
                 <ul class="jq-dropdown-menu">
-                    <li><a href="#en">English</a></li>
-                    <li><a href="#fr">Francais</a></li>
-                    <li><a href="#it">Italiano</a></li>
-                    <li><a href="#de">Deutsch</a></li>
-                    <li><a href="#es">Español</a></li>
+                    <li><a href="#en" id="en">English</a></li>
+                    <li><a href="#fr" id="fr">Francais</a></li>
+                    <li><a href="#it" id="it">Italiano</a></li>
+                    <li><a href="#de" id="de">Deutsch</a></li>
+                    <li><a href="#es" id="es">Español</a></li>
                 </ul>
             </div>
             <!-- Main -->
@@ -43,9 +43,8 @@
                         <article class="box post">
                             <a href="#" id="js-more-info-button" class=main></a>
                                 <header>
-                                    <h1>Test Barbulescu,</h1>
-                                    <h1 id="demo"></h1>
-                                    <h3>comprueba si están respetando tu intimidad en el trabajo.</h3>
+                                    <h1 id="tr-title"></h1>
+                                    <h3 id="tr-subtitle"></h3>
                                 </header>
                             <div class="qz-wrapper">
                                 <div class="qz-content">   

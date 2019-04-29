@@ -1,0 +1,131 @@
+
+
+ 1   ¿Ha sido informado el trabajador de la posibilidad de que se monitoricen sus comunicaciones? 
+EN / Has the employee been notified of the possibility that the employer might take measures to monitor communications? 
+FR / L'employé a-t-il été informé de la possibilité que l'employeur prenne des mesures pour surveiller les communications?
+DE / Wurde der Arbeitnehmer über die Möglichkeit informiert, dass der Arbeitgeber Maßnahmen zur Überwachung der Kommunikation ergreifen könnte?
+IT / Il dipendente è stato informato della possibilità che il datore di lavoro possa adottare misure per monitorare le comunicazioni?
+CAT / S'ha comunicat a l'empleat la possibilitat que l'empresari pugui prendre mesures per controlar les comunicacions?
+GAL / ¿Se notificou ao empregado a posibilidade de que o empresario poida tomar medidas para supervisar as comunicacións?
+EUS / Langileak enpresariak komunikazioen jarraipena egiteko neurriak hartu ditzakeen jakinarazpena eman al zaio?
+
+
+2    ¿Se ha informado al trabajador de la puesta en práctica de esta vigilancia, antes de aplicarla? 
+EN / Has the employee been notified of the implementation of such measures in advance?
+FR / L'employé a-t-il été informé à l'avance de la mise en œuvre de telles mesures?
+DE / Wurde der Mitarbeiter vorab über die Umsetzung solcher Maßnahmen informiert?
+IT / Il dipendente è stato informato in anticipo dell'attuazione di tali misure?
+CAT / S'ha comunicat a l'empleat amb antelació la implementació d'aquestes mesures?
+GAL / ¿Se notificou o empregado da implementación destas medidas con antelación?
+EUS / Langileei neurri horiek ezartzeko aurretiaz jakinaraztea al da?
+
+
+ 3   ¿Se ha informado al trabajador acerca de si la vigilancia afecta al flujo de comunicaciones, o al contenido de las mismas? 
+EN / Has the employee been told if the surveillance will apply to the flow of communications or to their content?
+FR / L'employé a-t-il été informé si la surveillance s'appliquerait au flux des communications ou à leur contenu?
+DE / Wurde dem Mitarbeiter mitgeteilt, ob die Überwachung den Kommunikationsfluss oder seinen Inhalt betreffen wird?
+IT / Al dipendente è stato detto se la sorveglianza si applicherà al flusso di comunicazioni o al loro contenuto?
+CAT / Se li ha dit a l'empleat si la vigilància s'aplicarà al flux de comunicacions o al seu contingut?
+GAL / ¿Foi informado ao empregado se a vixilancia aplicarase ao fluxo de comunicacións ou ao seu contido?
+EUS / Langileriaren berri eman al zaio zaintza komunikazioen fluxuari edo haien edukiari aplikatuko zaiola?
+
+ 4   ¿Se ha informado al trabajador sobre si se vigilan todas las comunicaciones o solo una parte? 
+EN / Has the employee been told if all the communications will be monitorized, or only a part of them will be?
+FR / L'employé a-t-il été informé si toutes les communications seraient surveillées ou si seulement une partie d'entre elles le serait?
+DE / Wurde dem Mitarbeiter mitgeteilt, ob die gesamte Kommunikation überwacht wird oder nur ein Teil davon?
+IT / Al dipendente è stato detto se tutte le comunicazioni saranno monitorate, o solo una parte di esse sarà?
+CAT / Se li ha dit a l'empleat que totes les comunicacions seran monitoritzades o si només hi haurà una part?
+GAL / Se dixo o empregado se todas as comunicacións serán monitorizadas, ou só unha parte delas serán?
+EUS / Langileei jakinarazpen guztiak kontrolatuko al dira, edo horietako batzuk bakarrik izango dira?
+
+5    ¿Se ha informado al trabajador del tiempo durante el que se prolongarán las medidas de vigilancia? 
+EN / Has the employee been notified of the monitoring measures term?
+FR / L'employé a-t-il été informé de la durée des mesures de surveillance?
+DE / Wurde der Mitarbeiter über den Begriff der Überwachungsmaßnahmen informiert?
+IT / Il dipendente è stato informato delle misure di monitoraggio?
+CAT / S'ha comunicat a l'empleat el termini de les mesures de seguiment?
+GAL / ¿Se notificou ao empregado o prazo das medidas de seguimento?
+EUS / Langileei jarraipen neurrien epeen berri eman al dute?
+
+6    ¿Se ha informado al trabajador de las personas que podrán acceder al resultado de esta vigilancia? 
+EN / Has the employee been notified of the number of people who can access to the monitoring results?
+FR / L'employé a-t-il été informé du nombre de personnes pouvant accéder aux résultats de la surveillance?
+DE / Wurde der Mitarbeiter über die Anzahl der Personen informiert, die auf die Überwachungsergebnisse zugreifen können?
+IT / Il dipendente è stato informato del numero di persone che possono accedere ai risultati del monitoraggio?
+CAT / S'ha comunicat a l'empleat el nombre de persones que poden accedir als resultats del seguiment?
+GAL / ¿Se notificou ao empregado o número de persoas que poden acceder aos resultados do seguimento?
+EUS / Jarraipenaren emaitzak atzi ditzakeen pertsonen berri eman dio langileari?
+
+7    ¿Se ha informado al trabajador del uso o destino final de las medidas de control? 
+EN / Has the employee been notified of the monitoring measures final use?
+FR / L'employé a-t-il été informé de l'utilisation finale des mesures de surveillance?
+DE / Wurde der Mitarbeiter über die endgültige Verwendung der Überwachungsmaßnahmen informiert?
+IT / Il dipendente è stato informato delle misure di monitoraggio dell'uso finale?
+CAT / S'ha comunicat a l'empleat l'ús final de les mesures de seguiment?
+GAL / ¿Se notificou ao empregado o uso final das medidas de control?
+EUS / Jarraipenaren inguruko langileei jakinarazpen al da azken erabilera?
+
+8    ¿Existen motivos de seguridad de la empresa para aplicar esta vigilancia? 
+EN/ Does the employer have safety reasons to apply this surveillance?
+FR / L'employeur a-t-il des raisons de sécurité pour appliquer cette surveillance?
+DE / Hat der Arbeitgeber Sicherheitsgründe, um diese Überwachung anzuwenden?
+IT / Il datore di lavoro ha ragioni di sicurezza per applicare questa sorveglianza?
+CAT / L'empresari té motius de seguretat per aplicar aquesta vigilància?
+GAL / ¿O empresario ten razóns de seguridade para aplicar esta vixilancia?
+EUS / Enplegatzaileak zaintza hau aplikatzeko segurtasun arrazoiak ditu?
+
+9    ¿Tiene la empresa otro motivo legítimo y suficiente -distinto de la seguridad- para este control? 
+EN / Does the employer have another legitimate reason to justify this control?
+FR / L'employeur a-t-il une autre raison légitime pour justifier ce contrôle?
+DE / Hat der Arbeitgeber einen anderen berechtigten Grund, diese Kontrolle zu rechtfertigen?
+IT / Il datore di lavoro ha un altro motivo legittimo per giustificare questo controllo?
+CAT / L'empresari té una altra raó legítima per justificar aquest control?
+GAL / ¿O empresario ten outra razón lexítima para xustificar este control?
+EUS / Kontrolatzailea justifikatzeko beste arrazoi legitimo bat du enpresariak?
+
+10    ¿Son adecuadas las medidas de vigilancia aplicadas para este fin? 
+EN / Are the monitoring measures suitable to that reason?
+FR / Les mesures de surveillance sont-elles adaptées à cette raison?
+DE / Sind die Überwachungsmaßnahmen dafür geeignet?
+IT / Le misure di monitoraggio sono adatte a tale motivo?
+CAT / S’adapten les mesures de seguiment a aquest motiu?
+GAL / As medidas de seguimento son adecuadas a este motivo?
+EUS / Jarraipen-neurriek arrazoi horri egokiak al dira?
+
+11    ¿Existen otras formas de control menos intrusivas, que no conlleven el acceso a las comunicaciones? 
+EN / Is there any other monitoring system based on less measures than accessing the content of the employee´s communications?
+FR / Existe-t-il un autre système de surveillance basé sur moins de mesures que l'accès au contenu des communications de l'employé?
+DE / Gibt es ein anderes Überwachungssystem, das auf weniger Maßnahmen basiert als der Zugriff auf die Inhalte der Mitteilungen des Mitarbeiters?
+IT / Esiste un altro sistema di monitoraggio basato su meno misure rispetto all'accesso al contenuto delle comunicazioni dei dipendenti?
+CAT / Hi ha algun altre sistema de monitorització basat en menys mesures que l'accés al contingut de les comunicacions dels empleats?
+GAL / Hai algún outro sistema de seguimento baseado en menos medidas que o acceso ao contido das comunicacións dos empregados?
+EUS / Ba al dago beste jarraipen sistema bat, neurri txikiagoetan, langileen komunikazioen edukian sartzeak baino?
+
+12    ¿Las consecuencias derivadas de la vigilancia para el trabajador son acordes al fin de la vigilancia que se le comunicó? 
+EN / Are the consequences of the monitoring appropiate to achieve the final destination told to the employee?
+FR / Les conséquences de la surveillance pour atteindre la destination finale sont-elles communiquées à l'employé?
+DE / Sind die Konsequenzen der Überwachung angemessen, um das endgültige Ziel zu erreichen, und werden dem Mitarbeiter mitgeteilt?
+IT / Le conseguenze del monitoraggio sono appropriate per raggiungere la destinazione finale comunicata al dipendente?
+CAT / Les conseqüències de la supervisió són les corresponents per assolir la destinació final a l’empleat?
+GAL / ¿As consecuencias do seguimento son adecuadas para o destino final?
+EUS / Langileei azken jarraipena lortzeko jarraipenaren ondorioak al dira langileei?
+
+13    ¿Ha contado el trabajador con garantías una vez obtenidos los resultados de la monitorización? 
+EN / Has the employeer been provided with safeguards once the employer had the results of monitoring?
+FR / L'employeur a-t-il reçu des garanties une fois que l'employeur a eu les résultats de la surveillance?
+DE / Wurde dem Arbeitgeber nach dem Monitoring des Arbeitgebers Schutz geboten?
+IT / Il datore di lavoro è stato dotato di garanzie una volta che il datore di lavoro ha avuto i risultati del monitoraggio?
+CAT / S'ha proporcionat l’empresari les garanties una vegada l’empresari va obtenir els resultats del seguiment?
+GAL / ¿O empregado recibiu garantías unha vez que o empresario tivo os resultados do seguimento?
+EUS / Enplegatzaileak babes ofizialak eman al ditu enplegatzaileak jarraipenaren emaitzak izan ondoren?
+
+14    ¿Se ha informado al trabajador del acceso a los resultados de la monitorización? 
+EN / Has the employee been told about the company access to the results of monitoring?
+FR / L'employé a-t-il été informé de l'accès de l'entreprise aux résultats de la surveillance?
+DE / Wurde dem Mitarbeiter der Zugriff des Unternehmens auf die Überwachungsergebnisse mitgeteilt?
+IT / Al dipendente è stato detto che l'azienda ha accesso ai risultati del monitoraggio?
+CAT / S'ha informat l’empleat de l’empresa de l’accés als resultats del seguiment?
+GAL / ¿Foi informado ao empregado sobre o acceso da empresa aos resultados do seguimento?
+EUS / Enpresaren jarraipenaren emaitzetara iritsi zitzaion enpresari buruz?
+
+

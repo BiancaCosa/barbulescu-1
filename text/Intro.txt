@@ -1,0 +1,85 @@
+(ES) INTRO
+
+Actualmente muchos puestos de trabajo dependen de un ordenador, que es la herramienta principal de trabajo de muchos trabajadores y trabajadoras.
+
+¿Pueden las empresa vigilar las comunicaciones de sus trabajadores a través de los ordenadores de la compañía? ¿Incluso cuando son conversaciones privadas, ajenas al trabajo?
+
+El 5 de de septiembre de 2017 la Gran Sala del Tribunal Europeo de Derechos Humanos dictó una Sentencia en la que establece los requisitos para que una empresa en Europa pueda vigilar legalmente las comunicaciones de sus trabajadores a través de los ordenadores de la empresa.
+
+Los criterios de la sentencia se conocen como "Test Barbulescu": a continuación puedes contestar las preguntas para comprobar si la vigilancia de comunicaciones de los empleados de tu empresa es legal.
+
+(EN) INTRO
+
+Many jobs today depend on a computer, which is the main working tool for many workers.
+
+Can companies monitor the communications of their workers through the company's computers? Even when they are private, non-work conversations?
+
+On September 5, 2017, the Grand Chamber of the European Court of Human Rights issued a [Judgment] (http://hudoc.echr.coe.int/spa?i=001-177082) in which it establishes the requirements for a company in Europe to be able to legally monitor the communications of its workers through the company's computers.
+
+The criteria of the ruling are known as the "Barbulescu Test": you can then answer the questions to check whether the communications monitoring of your company's employees is legal.
+
+
+(FR) 
+
+De nos jours, de nombreux emplois dépendent d'un ordinateur, outil de travail principal de nombreux travailleurs.
+
+Les entreprises peuvent-elles surveiller les communications de leurs travailleurs via ses ordinateurs? Même lorsqu'ils sont privés, des conversations non professionnelles?
+
+Le 5 septembre 2017, la Grande Chambre de la Cour européenne des droits de l'homme a rendu un [Arrêt] (http://hudoc.echr.coe.int/spa?i=001-177082) dans laquelle elle établit les conditions d'une société européenne à pouvoir contrôler légalement les communications de ses travailleurs via les ordinateurs de la société.
+
+Les critères de la décision sont connus sous le nom de "Test Barbulescu": vous pouvez ensuite répondre aux questions pour vérifier si le contrôle des communications des employés de votre entreprise est légal.
+
+
+(IT) INTRO
+
+Molti lavori oggi dipendono da un computer, che è il principale strumento di lavoro per molti lavoratori.
+
+Le aziende possono monitorare le comunicazioni dei loro dipendenti attraverso i computer dell'azienda? Anche quando sono conversazioni private e non lavorative?
+
+Il 5 settembre 2017, la Grande Camera della Corte europea dei diritti umani ha emesso un [Judgment] (http://hudoc.echr.coe.int/spa?i=001-177082) in cui stabilisce i requisiti per un società in Europa per essere in grado di monitorare legalmente le comunicazioni dei propri dipendenti attraverso i computer dell'azienda.
+
+I criteri della sentenza sono noti come "test Barbulescu": puoi quindi rispondere alle domande per verificare se il monitoraggio delle comunicazioni dei dipendenti della tua azienda è legale.
+
+
+(DE) INTRO
+
+Heutzutage hängen viele Jobs von einem Computer ab, der für viele Arbeitnehmer das wichtigste Arbeitsinstrument ist.
+
+Können Unternehmen die Kommunikation ihrer Mitarbeiter über die Computer des Unternehmens überwachen? Selbst wenn es sich um private Gespräche ohne Arbeit handelt?
+
+Am 5. September 2017 erließ die Große Kammer des Europäischen Gerichtshofs für Menschenrechte ein Urteil (http://hudoc.echr.coe.int/spa?i=001-177082), in dem sie die Voraussetzungen für eine Unternehmen in Europa, um die Kommunikation der Mitarbeiter über die Computer des Unternehmens legal überwachen zu können.
+
+Die Kriterien des Urteils werden als "Barbulescu-Test" bezeichnet: Sie können dann die Fragen beantworten, um zu prüfen, ob die Kommunikationsüberwachung der Mitarbeiter Ihres Unternehmens legal ist.
+
+
+(GA) INTRO
+
+Moitos traballos hoxe dependen dunha computadora, que é a principal ferramenta de traballo para moitos traballadores.
+
+As empresas poden controlar as comunicacións dos seus traballadores a través dos ordenadores da compañía? Mesmo cando son conversas privadas e sen traballo?
+
+O 5 de setembro de 2017, a Gran Cámara do Tribunal Europeo de Dereitos Humanos emitiu un [xuízo] (http://hudoc.echr.coe.int/spa?i=001-177082) no que establece os requisitos para un empresa en Europa para poder controlar legalmente as comunicacións dos seus traballadores a través dos ordenadores da compañía.
+
+Os criterios da sentenza coñécense como "Test de Barbulescu": entón pode responder ás preguntas para comprobar se o control das comunicacións dos empregados da súa empresa é legal.
+
+
+(CA) INTRO
+Molts treballs actuals depenen d’una computadora, que és la principal eina de treball per a molts treballadors.
+
+Les empreses poden controlar les comunicacions dels seus treballadors a través dels ordinadors de la companyia? Fins i tot quan són converses privades i no laborals?
+
+El 5 de setembre de 2017, la Gran Cambra del Tribunal Europeu de Drets Humans va emetre una [Sentència] (http://hudoc.echr.coe.int/spa?i=001-177082) en la qual estableix els requisits per a empresa a Europa per poder controlar legalment les comunicacions dels seus treballadors a través dels ordinadors de la companyia.
+
+Els criteris de la resolució es coneixen com a "Prova de Barbulescu": podeu respondre a les preguntes per comprovar si el seguiment de les comunicacions dels empleats de la vostra empresa és legal.
+
+
+(EU) INTRO
+
+Gaur egun, lanpostu asko ordenagailu baten mende dago, langile askorentzat lan egiteko tresna nagusia.
+
+Enpresek konpainiaren ordenagailuen bidez beren langileen komunikazioen jarraipena egin dezakete? Lanik gabeko elkarrizketetan pribatuak direnean ere?
+
+2017ko irailaren 5ean, Europako Giza Eskubideen Auzitegiak Ganbera Handiak [Epaiketa] (http://hudoc.echr.coe.int/spa?i=001-177082) argitaratu zuen. Bertan, baldintzak ezartzen ditu Europako konpainia konpainiaren ordenagailuen bidez langileen komunikazioak legez kontrolatzeko gai izan dadin.
+
+Erabakiaren irizpideak "Barbulescu Proba" deritzon moduan ezagutzen ditu: galdera horiei erantzuteko, zure enpresako langileen komunikazioen jarraipena legezkoa den egiaztatzeko.
+

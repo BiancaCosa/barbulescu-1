@@ -6,23 +6,28 @@
 
     "language": {
         "es": {
-        "#demo": "Hola Mundo"
+        "#tr-title": "Test Barbulescu,",
+        "#tr-subtitle": "comprueba si están respetando tu intimidad en el trabajo."
         },
-
+        
         "en": {
-        "#demo": "Hello World"
+          "#tr-title": "Test Barbulescu,",
+          "#tr-subtitle": "check if they are respecting your privacy at work."
         },
 
         "fr": {
-        "#demo": "Bonjour le Monde"
+          "#tr-title": "Tester Barbulescu,",
+          "#tr-subtitle": "vérifiez s'ils respectent votre vie privée au travail."
         },
 
         "it": {
-        "#demo": "Ciao Mondo"
+          "#tr-title": "Test Barbulescu,",
+          "#tr-subtitle": "verifica se rispettano la tua privacy sul lavoro."
         },
 
         "de": {
-        "#demo": "Hallo Welt"
+          "#tr-title": "Prüfung Barbulescu,",
+          "#tr-subtitle": "prüfen Sie, ob sie Ihre Privatsphäre bei der Arbeit respektieren."
         }
       }
     }

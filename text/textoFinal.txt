@@ -1,0 +1,41 @@
+
+ES
+Enhorabuena! Tu empresa cumple todos los requisitos legales para vigilar los ordenadores de los empleados. En caso de duda consulta a un abogado laboralista.
+
+Ups! Tu empresa no cumple los requisitos para vigilar legalmente los ordenadores de los empleados. Te recomendamos que consultes a un abogado laboralista 
+
+EN
+Congratulations! Your company meets all the legal requirements for monitoring employees' computers. If in doubt, consult a labour lawyer.
+
+Oops! Your company doesn't meet the requirements to legally monitor employee computers. We recommend that you consult a labour lawyer. 
+
+FR
+Toutes nos félicitations! Votre entreprise respecte toutes les exigences légales en matière de surveillance des ordinateurs des employés. En cas de doute, consultez un avocat spécialisé dans le droit du travail.
+
+Oops! Votre entreprise ne remplit pas les conditions requises pour surveiller légalement les ordinateurs des employés. Nous vous recommandons de consulter un avocat spécialisé en droit du travail.
+
+IT
+Congratulazioni! La tua azienda soddisfa tutti i requisiti legali per il monitoraggio dei computer dei dipendenti. In caso di dubbio, consultare un avvocato del lavoro.
+
+Oops! La tua azienda non soddisfa i requisiti per monitorare legalmente i computer dei dipendenti. Ti consigliamo di consultare un avvocato del lavoro.
+
+DE
+Herzliche Glückwünsche! Ihr Unternehmen erfüllt alle gesetzlichen Anforderungen zur Überwachung der Computer von Mitarbeitern. Im Zweifelsfall wenden Sie sich an einen Arbeitsrechtsanwalt.
+
+Hoppla! Ihr Unternehmen erfüllt nicht die Anforderungen für die rechtmäßige Überwachung von Mitarbeitercomputern. Wir empfehlen Ihnen, sich an einen Arbeitsrechtsanwalt zu wenden.
+
+CA
+Felicitats! La vostra empresa compleix tots els requisits legals per controlar els ordinadors dels empleats. En cas de dubte, consulteu un advocat laboral.
+
+Vaja! La vostra empresa no compleix els requisits per controlar legalment els ordinadors dels empleats. Us recomanem que consulteu un advocat laboral.
+
+EU
+Zorionak! Zure enpresak langileen ordenagailuen jarraipena egiteko legezko baldintza guztiak betetzen ditu. Zalantzarik izanez gero, kontsultatu lan abokatu batekin.
+
+Ene! Zure konpainiak ez ditu langileen ordenagailuak legez kontrolatzeko baldintzak betetzen. Lan abokatu batekin kontsultatzea gomendatzen dizugu.
+
+GA
+Parabéns! A súa empresa cumpre todos os requisitos legais para controlar os ordenadores dos empregados. En caso de dúbida, consulte a un avogado laboral.
+
+Ups! A súa empresa non cumpre os requisitos para controlar legalmente os ordenadores dos empregados. Recomendamos que consulte a un avogado laboral.
+

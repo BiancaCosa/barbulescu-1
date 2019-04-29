@@ -1,0 +1,101 @@
+survey.html
+
+3
+"Hecho con mucho amor por"
+EN / "Made with a lot of love for"
+FR / "Fait avec beaucoup d'amour pour"
+DE / "Mit viel Liebe gemacht für"
+IT / "Fatto con tanto amore per"
+GAL / "Feito con moito amor por"
+CAT / "Fet amb molt amor per"
+EUS / "Maitasun handiz egina"
+
+46
+"Test Barbulescu,"
+EN / "Test Barbulescu,"
+FR / "Tester Barbulescu,"
+DE / "Prüfung Barbulescu,"
+IT / "Test Barbulescu,"
+GAL / "Proba Barbulescu,"
+CAT / "Prova Barbulescu,"
+EUS / "Proba Barbulescu,"
+
+48
+"comprueba si están respetando tu intimidad en el trabajo."
+EN / "check if they are respecting your privacy at work."
+FR / "vérifiez s'ils respectent votre vie privée au travail."
+DE / "prüfen Sie, ob sie Ihre Privatsphäre bei der Arbeit respektieren."
+IT / "verifica se rispettano la tua privacy sul lavoro."
+GAL / "comprobe se están respectando a súa privacidade no traballo."
+CAT / "comproveu si estan respectant la vostra privadesa a la feina."
+EUS / "egiaztatu laneko pribatutasuna errespetatuz."
+
+*Archivo Preguntas* Traducir Si y No
+
+181
+"¡Enviar respuestas!"
+EN / "Send answers!"
+FR / "Envoyez des réponses!"
+DE / "Antworten senden!"
+IT / "Invia risposte!"
+GAL / "Enviar respostas!"
+CAT / "Envia respostes!"
+EUS / "Bidali erantzunak!"
+
+*Archivo Intro Breve*
+
+194
+"Pulsa para saber más"
+EN / "Click to learn more"
+FR / "Cliquez pour en savoir plus"
+DE / "Klicke, um mehr zu lernen"
+IT / "Clicca per saperne di più"
+GAL / "Fai clic para saber máis"
+CAT / "Feu clic per obtenir més informació"
+EUS / "Egin klik gehiago jakiteko"
+
+*Archivo Intro*
+
+202
+"Por si quieres saber más..."
+EN / "In case you want to know more ..."
+FR / "Si vous voulez en savoir plus ..."
+DE / "Wenn Sie mehr wissen wollen ..."
+IT / "Nel caso volessi saperne di più ..."
+GAL / "Se queres saber máis ..."
+CAT / "En cas de voler saber-ne més ..."
+EUS / "Gehiago jakin nahi baduzu ..."
+
+209
+"Algunos links de interés:"
+EN / "Some links of interest:"
+FR / "Quelques liens d'intérêt:"
+DE / "Einige Links von Interesse:"
+IT / "Alcuni link di interesse:"
+GAL / "Algúns enlaces de interese:"
+CAT / "Alguns enllaços d'interès:"
+EUS / "Lotura interesgarri batzuk:"
+
+*Archivo Links*
+
+218
+"Volver arriba"
+EN / "Go up"
+FR / "Monter"
+DE / "Geh nach oben"
+IT / "Salire"
+GAL / "Subir"
+CAT / "Pujar"
+EUS / "Gora"
+
+225
+"Hecho con" <3 "por" 
+EN / "Made with" "by"
+FR / "Fait avec" "par"
+DE / "Gemacht mit" "durch"
+IT / "Fatto con" "di"
+GAL / "Feito con" "por"
+CAT / "Fet amb" "per"
+EUS / "Egindakoarekin" "arabera"
+
+
