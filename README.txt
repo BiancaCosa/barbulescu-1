@@ -32,10 +32,8 @@ Credits:
 	Index page image by:
 		Xélon (xelonxlf.com)
 
-	Icons:
-		()
-
 	Other:
 		jQuery (jquery.com)
 		iCheck Plugin (github.com/fronteed/icheck)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Multilanguage (github.com/mingchoi/Multi-Language)

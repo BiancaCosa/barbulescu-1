@@ -7,9 +7,6 @@ $(document).ready(function(){
 
     initializeSubmitButton();
 
-   
-        
-    
     initializeTranslate();
 
     chooseLangToTranslate();
@@ -36,6 +33,7 @@ function chooseLangToTranslate(){
     $( '#es' ).on( 'click', function(){
       $.MultiLanguage('assets/js/translations.json', 'es');
     });
+   
   
 };
  
@@ -53,7 +51,10 @@ function initializeSubmitButton(){
     const allTheQuestions = 14;
     var radioCheckedTrue = 0;
     var radioChecked = 0;
-
+    
+    var url = window.location.href.split('#');
+    var lang = url[url.length - 1];
+    console.log(lang);
 
     $('input[type=radio]').each(function (index, radio){
       if (radio.checked){

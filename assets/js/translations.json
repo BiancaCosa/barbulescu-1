@@ -6,28 +6,49 @@
 
     "language": {
         "es": {
+        "#tr-subtitleindex": "o el rollo del Derecho a la intimidad en el trabajo.",
+        "#tr-begginbutton": "Empieza el test",
         "#tr-title": "Test Barbulescu,",
-        "#tr-subtitle": "comprueba si están respetando tu intimidad en el trabajo."
+        "#tr-subtitle": "comprueba si están respetando tu intimidad en el trabajo.",
+        "#tr-titlesafe": "¡Enhorabuena!",
+        "#tr-titleinvaded": "¡Ups!" 
         },
         
         "en": {
+          "#tr-subtitleindex": "or the right to privacy at work.",
+          "#tr-begginbutton": "The test begins",
           "#tr-title": "Test Barbulescu,",
-          "#tr-subtitle": "check if they are respecting your privacy at work."
+          "#tr-subtitle": "check if they are respecting your privacy at work.",
+          "#tr-titlesafe": "Congratulations!",
+          "#tr-titleinvaded": "Oops!"
         },
 
         "fr": {
+          "#tr-subtitleindex": "ou le droit à la vie privée au travail.",
+          "#tr-begginbutton": "Le test commence",
           "#tr-title": "Tester Barbulescu,",
-          "#tr-subtitle": "vérifiez s'ils respectent votre vie privée au travail."
+          "#tr-subtitle": "vérifiez s'ils respectent votre vie privée au travail.",
+          "#tr-titlesafe": "Toutes nos félicitations!",
+          "#tr-titleinvaded": "Oops!"
         },
 
         "it": {
+          "#tr-subtitleindex": "o il diritto alla privacy sul lavoro.",
+          "#tr-begginbutton": "Inizia il test",
           "#tr-title": "Test Barbulescu,",
-          "#tr-subtitle": "verifica se rispettano la tua privacy sul lavoro."
+          "#tr-subtitle": "verifica se rispettano la tua privacy sul lavoro.",
+          "#tr-titlesafe": "Congratulazioni!",
+          "#tr-titleinvaded": "Oops!"
         },
 
         "de": {
+          "#tr-subtitleindex": "oder das Recht auf Privatsphäre bei der Arbeit.",
+          "#tr-begginbutton": "Der Test beginnt",
           "#tr-title": "Prüfung Barbulescu,",
-          "#tr-subtitle": "prüfen Sie, ob sie Ihre Privatsphäre bei der Arbeit respektieren."
+          "#tr-subtitle": "prüfen Sie, ob sie Ihre Privatsphäre bei der Arbeit respektieren.",
+          "#tr-titlesafe": "Herzliche Glückwünsche!",
+          "#tr-titleinvaded": "Hoppla!"
+          
         }
       }
     }

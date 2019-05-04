@@ -7,26 +7,44 @@
 		<title>Barbulescu</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/jquery.dropdown.css" />
+		<link rel="stylesheet" href="assets/css/jquery.dropdown.min.css" />	
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+		 
+		<script type="text/javascript" src="assets/js/jquery.dropdown.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.MultiLanguage.min.js"></script> 
+		<script type="text/javascript" src="assets/js/survey.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>		
 	</head>
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
 			<div class="signature">
-					<p>Hecho con
-						<i class="fas fa-heart" id="icons"></i> & <i class="fas fa-coffee"></i>
-						por <a href="http://www.devscola.org">Devscola</a> y <a href="http://www.Nolegaltech.com">:NO{legaltech}</a></p>
+				<p>Hecho con
+					<i class="fas fa-heart" id="icons"></i> & <i class="fas fa-coffee"></i>
+					por <a href="http://www.devscola.org">Devscola</a> y <a href="http://www.Nolegaltech.com">:NO{legaltech}</a></p>
 			</div>
+			<!-- Dropdown Languages-->
+			<input type="button" value="Traductions" data-jq-dropdown="#jq-dropdown" />
+            <div id="jq-dropdown" class="jq-dropdown jq-dropdown-tip">
+                <ul class="jq-dropdown-menu">
+                    <li><a href="#en" id="en">English</a></li>
+                    <li><a href="#fr" id="fr">Francais</a></li>
+                    <li><a href="#it" id="it">Italiano</a></li>
+                    <li><a href="#de" id="de">Deutsch</a></li>
+                    <li><a href="#es" id="es">Español</a></li>
+                </ul>
+            </div>
 			<!-- Banner -->
 			<section id="banner">
 				<header>
 					<h2>Barbulescu,</h2>
-					<p>o el rollo del Derecho a la intimidad en el trabajo.</p>
+					<p id="tr-subtitleindex"></p>
 				</header>
 			</section>
 			<footer>
 				<ul class="actions">
-					<li><a href="survey.html" class="button large">Empieza el test</a></li>
+					<li><a href="survey.html" class="button large" id="tr-begginbutton" ></a></li>
 				</ul>
 			</footer>
 		</div>
