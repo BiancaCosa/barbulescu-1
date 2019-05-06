@@ -36,4 +36,3 @@ Credits:
 		jQuery (jquery.com)
 		iCheck Plugin (github.com/fronteed/icheck)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-		Multilanguage (github.com/mingchoi/Multi-Language)

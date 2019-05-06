@@ -8,35 +8,26 @@ $(document).ready(function(){
     initializeSubmitButton();
 
     initializeTranslate();
-
-    chooseLangToTranslate();
-  
 });
 
+ 
 function initializeTranslate(){
-  $.MultiLanguage('assets/js/translations.json');
+    var translator = $('body').translate({lang: "es", t: transDictionary});
+    var str = translator.g("translate");
+
+    addChangeLangListener(function(lang) {
+      translator.lang(lang);
+    })
 };
 
-function chooseLangToTranslate(){
-    $( '#en' ).on( 'click', function(){
-     $.MultiLanguage('assets/js/translations.json', 'en');
-    });
-    $( '#fr' ).on( 'click', function(){
-      $.MultiLanguage('assets/js/translations.json', 'fr');
-    });
-    $( '#de' ).on( 'click', function(){
-      $.MultiLanguage('assets/js/translations.json', 'de');
-    });
-     $( '#it' ).on( 'click', function(){
-      $.MultiLanguage('assets/js/translations.json', 'it');
-    });
-    $( '#es' ).on( 'click', function(){
-      $.MultiLanguage('assets/js/translations.json', 'es');
-    });
-   
-  
-};
- 
+function addChangeLangListener(translate) {
+  $("#jq-dropdown").click(
+    function(event) {
+      event.preventDefault();
+      var lang = event.target.id
+      translate(lang);
+  });
+}
 
 function initializeICheck(){
     $('input').iCheck({
@@ -44,7 +35,6 @@ function initializeICheck(){
         radioClass: 'iradio_square-blue',
     });
 };
-
 
 function initializeSubmitButton(){
   $( "#submit-button" ).on( 'click', function(){
