@@ -9,6 +9,27 @@
         it: "o il diritto alla privacy sul lavoro.",
         de: "oder das Recht auf Privatsphäre bei der Arbeit."
       },
+      "Hecho con ": {
+        es: "Hecho con ",
+        en: "Made with ",
+        fr: "Fait avec ",
+        it: "Fatto con ",
+        de: "Gemacht mit "
+      },
+      "por ": {
+        es: "por ",
+        en: "by ",
+        fr: "par ",
+        it: "di ",
+        de: "durch "
+      },
+      "y ": {
+        es: "y ",
+        en: "and ",
+        fr: "et ",
+        it: "e ",
+        de: "und "
+      },
       "Empieza el test": {
         es: "Empieza el test",
         en: "The test begins",

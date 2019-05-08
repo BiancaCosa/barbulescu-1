@@ -98,4 +98,12 @@ GAL / "Feito con" "por"
 CAT / "Fet amb" "per"
 EUS / "Egindakoarekin" "arabera"
 
+"Traducciones": {
+        es: "Traducciones",
+        en: "Translations",
+        fr: "Traductions",
+        it: "Traduzioni",
+        de: "Übersetzungen"
+      },
+
 
