@@ -36,3 +36,4 @@ Credits:
 		jQuery (jquery.com)
 		iCheck Plugin (github.com/fronteed/icheck)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Translate plugin (github.com/tinoni/translate.js)

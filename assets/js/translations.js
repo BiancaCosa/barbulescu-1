@@ -1,5 +1,6 @@
-
-
+/*
+	  Hecho con mucho amor por Devscola y Nolegaltech <3
+*/
     var transDictionary = {
       "o el rollo del Derecho a la intimidad en el trabajo.": {
         es: "o el rollo del Derecho a la intimidad en el trabajo.",
@@ -7,6 +8,13 @@
         fr: "ou le droit à la vie privée au travail.",
         it: "o il diritto alla privacy sul lavoro.",
         de: "oder das Recht auf Privatsphäre bei der Arbeit."
+      },
+      "Empieza el test": {
+        es: "Empieza el test",
+        en: "The test begins",
+        fr: "Le test commence",
+        it: "Inizia il test",
+        de: "Der Test beginnt"
       },
       "Test Barbulescu,": {
         es: "Test Barbulescu,",
@@ -21,7 +29,28 @@
         fr: "vérifiez s'ils respectent votre vie privée au travail.",
         it: "verifica se rispettano la tua privacy sul lavoro.",
         de:  "prüfen Sie, ob sie Ihre Privatsphäre bei der Arbeit respektieren."
-      }
+      },
+      "¡Enhorabuena!": {
+        es: "¡Enhorabuena!",
+        en: "Congratulations!",
+        fr: "Toutes nos félicitations!",
+        it: "Congratulazioni!",
+        de: "Herzliche Glückwünsche!"
+      },
+      "¡Ups!": {
+        es: "¡Ups!",
+        en: "Oops!",
+        fr: "Oops!",
+        it: "Oops!",
+        de: "Hoppla!"
+      },
+      /*  : {
+        es:
+        en:
+        fr:
+        it:
+        de:
+      },  */
     };
   
   

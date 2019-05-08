@@ -4,6 +4,7 @@
 $(document).ready(function () {
   initializeICheck();
   initializeSubmitButton();
+  
 });
 
 function initializeICheck() {
@@ -19,9 +20,8 @@ function initializeSubmitButton() {
     var radioCheckedTrue = 0;
     var radioChecked = 0;
 
-    var url = window.location.href.split('#');
-    var lang = url[url.length - 1];
-    console.log(lang);
+    getLang();
+    console.log('lang');
 
     $('input[type=radio]').each(function (index, radio) {
       if (radio.checked) {
