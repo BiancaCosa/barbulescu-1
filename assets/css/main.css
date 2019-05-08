@@ -183,8 +183,8 @@ input, select, textarea {
 	}
 
 	.signature {
-		text-align: right;
-		margin-right: 2em;
+		text-align: left;
+		margin-left: 2em;
 	}			
 
 /* Container */
