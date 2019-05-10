@@ -169,5 +169,6 @@ section > :last-child, section:last-child, article > :last-child, article:last-c
 }
 span{
   font-weight: bold;
-  color: #E52019;
+  color:#E52019;
 }
+
