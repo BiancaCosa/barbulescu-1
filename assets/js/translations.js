@@ -268,12 +268,12 @@
         it: "Congratulazioni!",
         de: "Herzliche Glückwünsche!"
       },
-      "Tu empresa cumple todos los requisitos legales para vigilar los ordenadores de los empleados": {
-        es: "Tu empresa cumple todos los requisitos legales para vigilar los ordenadores de los empleados",
-        en: "Your company meets all legal requirements to monitor employees' computers",
+      "Tu empresa cumple todos los requisitos legales para vigilar los ordenadores de los empleados.": {
+        es: "Tu empresa cumple todos los requisitos legales para vigilar los ordenadores de los empleados.",
+        en: "Your company meets all legal requirements to monitor employees' computers.",
         fr: "Votre entreprise respecte toutes les exigences légales en matière de surveillance des ordinateurs des employés.",
-        it: "La tua azienda soddisfa tutti i requisiti legali per monitorare i computer dei dipendenti",
-        de: "Ihr Unternehmen erfüllt alle gesetzlichen Anforderungen zur Überwachung der Computer von Mitarbeitern"
+        it: "La tua azienda soddisfa tutti i requisiti legali per monitorare i computer dei dipendenti.",
+        de: "Ihr Unternehmen erfüllt alle gesetzlichen Anforderungen zur Überwachung der Computer von Mitarbeitern."
       },
       "En caso de duda consulta a un abogado laboralista.": {
         es: "En caso de duda consulta a un abogado laboralista.",
