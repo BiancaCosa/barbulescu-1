@@ -35,7 +35,7 @@ function addStoreLangListener(){
 }
 
 function getLang(){
-    localStorage.getItem('lang') || navigator.language;
+    return localStorage.getItem('lang') || navigator.language;
 }
 
 function initializeIndexButton() {
