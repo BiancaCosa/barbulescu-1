@@ -2,6 +2,13 @@
 	  Hecho con mucho amor por Devscola y Nolegaltech <3
 */
     var transDictionary = {
+      "Traducciones": {
+        es: "Español",
+        en: "English",
+        fr: "Francais",
+        it: "Italiano",
+        de: "Deutsch"
+      },
       "o el rollo del Derecho a la intimidad en el trabajo.": {
         es: "o el rollo del Derecho a la intimidad en el trabajo.",
         en: "or the right to privacy at work.",
