@@ -161,6 +161,14 @@ input, select, textarea {
 		text-decoration: underline;
 	}
 
+
+	#goUp-button{
+		display: inline-block;
+		margin: auto;
+		vertical-align: middle;
+        text-align: center;
+	}
+
 	#dropdown-translate-index{
 		margin-left: 5.3em;
 	}
@@ -172,9 +180,7 @@ input, select, textarea {
 	#start-button{
 		display: inline-block;
 		margin: auto;
-	
 	}
-
 		a:hover {
 			text-decoration: none;
 		}
@@ -1636,6 +1642,10 @@ input, select, textarea {
 
 		.box footer ul.actions {
 			margin-bottom: 0;
+		}
+
+		#submit-button{
+			margin-left: 0 auto;
 		}
 
 /* Button */
