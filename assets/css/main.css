@@ -165,6 +165,10 @@ input, select, textarea {
 		margin-left: 5.3em;
 	}
 
+	#dropdown-translate-survey{
+		margin-left: 6.5em;
+	}
+
 	#start-button{
 		display: inline-block;
 		margin: auto;
