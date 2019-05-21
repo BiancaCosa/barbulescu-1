@@ -1616,6 +1616,7 @@ input, select, textarea {
 			font-size: 3.5em;
 			letter-spacing: -0.015em;
 			color: #E52019;
+			line-height: 0.8em;
 		}
 
 		.box.post h2 {
