@@ -166,8 +166,9 @@ input, select, textarea {
 	}
 
 	#start-button{
-		margin-left: 40%;
-		margin-right: 40%;
+		display: inline-block;
+		margin: auto;
+	
 	}
 
 		a:hover {
@@ -1777,8 +1778,10 @@ input, select, textarea {
 /* Actions */
 
 	ul.actions {
+		vertical-align: middle;
+        text-align: center;
 		list-style: none;
-		padding-left: 0;
+		
 	}
 
 		ul.actions li {
@@ -2619,6 +2622,8 @@ input, select, textarea {
 			.button.large {
 				font-size: 1.1em;
 				padding: 0.65em 1.5em 0.65em 1.5em;
+				display:block;
+				margin:auto;
 			}
 
 		/* Actions */

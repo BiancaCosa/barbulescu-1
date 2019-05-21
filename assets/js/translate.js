@@ -22,7 +22,6 @@ function addChangeLangListener(translate) {
         function (event) {
             event.preventDefault();
             var lang = event.target.id
-            //lang es la variable donde capturamos el idioma que seleccionamos del dropdown
             translate(lang);
         });
 }
