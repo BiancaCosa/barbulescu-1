@@ -167,8 +167,18 @@ section > :last-child, section:last-child, article > :last-child, article:last-c
   font-style: normal;
   font-size: 16px;
 }
+
 span{
+  font-weight: normal;
+  color:#000000; 
+}
+
+.question {
+  font-weight: 900;
+  color:#000000; 
+}
+
+.question-number {
   font-weight: bold;
   color:#E52019;
 }
-
