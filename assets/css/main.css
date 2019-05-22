@@ -185,7 +185,7 @@ input, select, textarea {
 	.signature {
 		text-align: left;
 		margin-left: 2em;
-	}			
+	}
 
 /* Container */
 
@@ -1540,7 +1540,7 @@ input, select, textarea {
 
 	section, article {
 		margin-bottom: 2.5em;
-	
+
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
@@ -1574,7 +1574,7 @@ input, select, textarea {
 				display: inline;
 				margin: 0;
 				padding: 0 1em 0 1em;
-				
+
 			}
 
 	footer {
@@ -1664,7 +1664,7 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background: #E83830;
-			
+
 		}
 
 		input[type="button"].alt,
@@ -1707,7 +1707,6 @@ input, select, textarea {
 		input[type="reset"].large,
 		button.large,
 		.button.large {
-			margin-top: -17em;
     		font-size: 1.3em;
     		padding: 0.65em 2em 0.65em 2em;
 		}
@@ -1780,7 +1779,7 @@ input, select, textarea {
 		}
 
 			ul.actions li:first-child {
-				margin-left: 38%;
+				margin-left: 0;
 			}
 
 /* Links */
@@ -2032,7 +2031,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-	
+
 		margin-left: 66em
 	}
 
@@ -2213,9 +2212,6 @@ input, select, textarea {
 			min-width: 12em;
 		}
 
-		#intro footer {
-			margin: 0;
-		}
 
 /* Main */
 
@@ -2343,20 +2339,20 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 4em 0 3em 0;
+				padding: 1em 0 0 0;
 			}
 
 		/* Banner */
 
 			#banner {
 				padding: 6em 0;
-				margin: 3em 0 0 0;
+				margin: 2em 0 0 0;
 			}
 
 		/* Intro */
 
 			#intro {
-				padding: 0;
+				padding: 1em;
 			}
 
 				#intro section {
@@ -2429,7 +2425,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 3.5em 0 3em 0;
+				padding: 0 0 3em 0;
 			}
 
 		/* Nav */
@@ -2441,7 +2437,7 @@ input, select, textarea {
 		/* Intro */
 
 			#intro {
-				padding: 3em 0 0 0;
+				padding: 1em 0 0 0;
 			}
 
 				#intro section {
@@ -2462,10 +2458,6 @@ input, select, textarea {
 
 				#intro .middle:before, #intro .middle:after {
 					display: none;
-				}
-
-				#intro footer {
-					padding: 3em 0 0 0;
 				}
 
 					#intro footer ul.actions {
@@ -2779,7 +2771,7 @@ input, select, textarea {
 
 			#header {
 				text-align: center;
-				padding: 2em 0;
+				padding: 0;
 			}
 
 				#header h1 {
@@ -2792,7 +2784,7 @@ input, select, textarea {
 		/* Intro */
 
 			#intro {
-				padding: 2em 0 0 0;
+				padding: 1em 0 0 0;
 			}
 
 				#intro section {
@@ -2808,7 +2800,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 6em 0;
-				margin: 2em 0 0 0;
+				margin: 1em 0 0 0;
 			}
 
 				#banner header {
