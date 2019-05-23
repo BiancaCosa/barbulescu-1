@@ -10,7 +10,6 @@ body {
 
 #main {
   background: none;
-  padding: 4em 0 0 0;
 }
 
 .signature {
@@ -170,15 +169,20 @@ section > :last-child, section:last-child, article > :last-child, article:last-c
 
 span{
   font-weight: normal;
-  color:#000000; 
+  color:#000000;
 }
 
 .question {
   font-weight: 900;
-  color:#000000; 
+  color:#000000;
 }
 
 .question-number {
   font-weight: bold;
   color:#E52019;
+}
+
+#lang-button {
+  text-align: right;
+  margin-right: 6em;
 }
