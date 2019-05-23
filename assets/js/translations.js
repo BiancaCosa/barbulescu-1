@@ -125,7 +125,7 @@
         es: "¿Existen motivos de seguridad de la empresa para aplicar esta vigilancia?",
         en: "Does the employer have safety reasons to apply this surveillance?",
         fr: "L'employeur a-t-il des raisons de sécurité pour appliquer cette surveillance?",
-        it: "Il datore di lavoro ha ragioni di sicurezza per applicare questa sorveglianza?",
+        it: "Il datore di lavoro ha motivi di sicurezza per applicare questa sorveglianza?",
         de: "Hat der Arbeitgeber Sicherheitsgründe, um diese Überwachung anzuwenden?"
       },
       "¿Tiene la empresa otro motivo legítimo y suficiente -distinto de la seguridad- para este control?": {
@@ -153,7 +153,7 @@
         es: "¿Las consecuencias derivadas de la vigilancia para el trabajador son acordes al fin de la vigilancia que se le comunicó?",
         en: "Are the consequences of the monitoring appropiate to achieve the final destination told to the employee?",
         fr: "Les conséquences de la surveillance pour atteindre la destination finale sont-elles communiquées à l'employé?",
-        it: "Le conseguenze del monitoraggio sono appropriate per raggiungere la destinazione finale comunicata al dipendente?",
+        it: "Le conseguenze del monitoraggio sono appropriate per raggiungere l'obiettivo finale comunicato al dipendente?",
         de: "Sind die Konsequenzen der Überwachung angemessen, um das endgültige Ziel zu erreichen, und werden dem Mitarbeiter mitgeteilt?"
       },
       "¿Ha contado el trabajador con garantías una vez obtenidos los resultados de la monitorización?": {
@@ -181,7 +181,7 @@
         es: "El TEDH ha establecido en la Sentencia Barbulescu los requisitos para que las empresas puedan vigilar legalmente la actividad de sus trabajadores en ordenadores y otros equipos de empresa. <br>Descubre si la vigilancia en tu empresa es legal haciendo el \"Test Barbulescu\".",
         en: "The ECHR has established in the Barbulescu judgment the requirements for companies to be able to legally monitor the activity of their employees on computers and other company equipment. <br>Find out if surveillance in your company is legal by doing the \"Barbulescu Test\".",
         fr: "Dans l’arrêt Barbulescu, la CEDH a défini les obligations des entreprises en matière de surveillance légale de l’activité de leurs employés sur les ordinateurs et autres équipements de l’entreprise. <br>Découvrez si la surveillance dans votre entreprise est légale en effectuant le \"Test Barbulescu\".",
-        it: "La CEDU ha stabilito nella sentenza Barbulescu i requisiti per le società di essere in grado di monitorare legalmente l'attività dei loro dipendenti su computer e altre apparecchiature aziendali. <br>Scopri se la sorveglianza nella tua azienda è legale eseguendo il \"Test Barbulescu\".",
+        it: "La CEDU ha stabilito nella sentenza Barbulescu i requisiti per le società per poter monitorare legalmente l'attività dei loro dipendenti su computer e altre apparecchiature aziendali. <br>Scopri se la sorveglianza nella tua azienda è legale eseguendo il \"Test Barbulescu\".",
         de: "Die EMRK hat im Barbulescu-Urteil die Anforderungen festgelegt, nach denen Unternehmen die Tätigkeit ihrer Mitarbeiter im Bereich Computer und andere Unternehmensausrüstungen gesetzlich überwachen dürfen. <br>Finden Sie heraus, ob die Überwachung in Ihrem Unternehmen legal ist, indem Sie den \"Barbulescu-Test\" durchführen."
       },
       "Pulsa para saber más": {
@@ -202,7 +202,7 @@
         es: "Actualmente muchos puestos de trabajo dependen de un ordenador, que es la herramienta principal de trabajo de muchos trabajadores y trabajadoras.<br><br>¿Pueden las empresa vigilar las comunicaciones de sus trabajadores a través de los ordenadores de la compañía? ¿Incluso cuando son conversaciones privadas, ajenas al trabajo? <br>El 5 de de septiembre de 2017 la Gran Sala del Tribunal Europeo de Derechos Humanos dictó una Sentencia en la que establece los requisitos para que una empresa en Europa pueda vigilar legalmente las comunicaciones de sus trabajadores a través de los ordenadores de la empresa.<br><br> Los criterios de la sentencia se conocen como \"Test Barbulescu\": a continuación puedes contestar las preguntas para comprobar si la vigilancia de comunicaciones de los empleados de tu empresa es legal.",
         en: "Many jobs today depend on a computer, which is the main working tool for many workers. <br><br>Can companies monitor the communications of their workers through the company's computers? Even when they are private, non-work conversations? <br>On September 5, 2017, the Grand Chamber of the European Court of Human Rights issued a [Judgment] in which it establishes the requirements for a company in Europe to be able to legally monitor the communications of its workers through the company's computers. <br>The criteria of the ruling are known as the \"Barbulescu Test\": you can then answer the questions to check whether the communications monitoring of your company's employees is legal.",
         fr: "De nos jours, de nombreux emplois dépendent d'un ordinateur, outil de travail principal de nombreux travailleurs. <br><br>Les entreprises peuvent-elles surveiller les communications de leurs travailleurs via ses ordinateurs? Même lorsqu\'ils sont privés, des conversations non professionnelles? <br>Le 5 septembre 2017, la Grande Chambre de la Cour européenne des droits de l'homme a rendu un [Arrêt] dans laquelle elle établit les conditions d'une société européenne à pouvoir contrôler légalement les communications de ses travailleurs via les ordinateurs de la société. <br>Les critères de la décision sont connus sous le nom de \"Test Barbulescu\": vous pouvez ensuite répondre aux questions pour vérifier si le contrôle des communications des employés de votre entreprise est légal.",
-        it: "Molti lavori oggi dipendono da un computer, che è il principale strumento di lavoro per molti lavoratori. <br><br>Le aziende possono monitorare le comunicazioni dei loro dipendenti attraverso i computer dell\'azienda? Anche quando sono conversazioni private e non lavorative? <br>Il 5 settembre 2017, la Grande Camera della Corte europea dei diritti umani ha emesso un [Judgment] in cui stabilisce i requisiti per un società in Europa per essere in grado di monitorare legalmente le comunicazioni dei propri dipendenti attraverso i computer dell'azienda. <br>I criteri della sentenza sono noti come \"test Barbulescu\": puoi quindi rispondere alle domande per verificare se il monitoraggio delle comunicazioni dei dipendenti della tua azienda è legale.",
+        it: "Molti lavori oggi dipendono da un computer, che è il principale strumento di lavoro per molti lavoratori. <br><br>Le aziende possono monitorare le comunicazioni dei loro dipendenti attraverso i computer dell\'azienda? Anche quando sono conversazioni private e non lavorative? <br>Il 5 settembre 2017, la Grande Camera della Corte europea dei diritti umani ha emesso un [Judgment] in cui stabilisce i requisiti per una società in Europa per poter monitorare legalmente le comunicazioni dei propri dipendenti attraverso i computer dell'azienda. <br>I criteri della sentenza sono noti come \"test Barbulescu\": puoi quindi rispondere alle domande per verificare se il monitoraggio delle comunicazioni dei dipendenti della tua azienda è legale.",
         de: "Heutzutage hängen viele Jobs von einem Computer ab, der für viele Arbeitnehmer das wichtigste Arbeitsinstrument ist. <br><br>Können Unternehmen die Kommunikation ihrer Mitarbeiter über die Computer des Unternehmens überwachen? Selbst wenn es sich um private Gespräche ohne Arbeit handelt? <br>Am 5. September 2017 erließ die Große Kammer des Europäischen Gerichtshofs für Menschenrechte ein Urteil, in dem sie die Voraussetzungen für eine Unternehmen in Europa, um die Kommunikation der Mitarbeiter über die Computer des Unternehmens legal überwachen zu können. <br>Die Kriterien des Urteils werden als \"Barbulescu-Test\" bezeichnet: Sie können dann die Fragen beantworten, um zu prüfen, ob die Kommunikationsüberwachung der Mitarbeiter Ihres Unternehmens legal ist."
       },
       "Algunos links de interés:": {
@@ -290,8 +290,8 @@
         de: "Im Zweifelsfall wenden Sie sich an einen Arbeitsrechtsanwalt."
       },
     };
-  
-  
-      
-      
-  
+
+
+
+
+
