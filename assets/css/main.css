@@ -1795,7 +1795,7 @@ input, select, textarea {
 		vertical-align: middle;
         text-align: center;
 		list-style: none;
-		
+
 	}
 
 		ul.actions li {
@@ -2042,7 +2042,7 @@ input, select, textarea {
 		position: relative;
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 5em 0 4em 0;
+		padding: 3em 0 0 0;
 		text-align: center;
 	}
 
