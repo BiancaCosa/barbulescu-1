@@ -186,3 +186,9 @@ span{
   text-align: right;
   margin-right: 6em;
 }
+
+@media screen and (max-width: 980px) {
+  #more {
+    display:none;
+  }
+}
