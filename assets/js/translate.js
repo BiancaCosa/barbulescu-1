@@ -4,8 +4,6 @@
 $(document).ready(function () {
     initializeTranslate();
     addStoreLangListener();
-    initializeIndexButton();
-    transSubmitButton();
 });
 
 function initializeTranslate() {
@@ -35,21 +33,4 @@ function addStoreLangListener(){
 
 function getLang(){
     return localStorage.getItem('lang') || navigator.language;
-}
-
-function initializeIndexButton() {
-    $("#start-button").on('click', function () {  
-        initializeTranslate();   
-        getLang();
-           
-    }); 
-};
-
-function transSubmitButton() {
-    $("#submit-button").on('click', function () {
-        getLang();  
-        console.log('lang');   
-           
-    }); 
-    
 }
