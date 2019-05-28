@@ -9,6 +9,7 @@ $(document).ready(function () {
 function initializeTranslate() {
     var currentLang = getLang();
     var translator = $('body').translate({ lang: currentLang, t: transDictionary });
+    translator.lang(currentLang);
 
     addChangeLangListener(function (lang) {
         translator.lang(lang);
@@ -32,5 +33,5 @@ function addStoreLangListener(){
 }
 
 function getLang(){
-    return localStorage.getItem('lang') || navigator.language;
+    return localStorage.getItem('lang') || navigator.language.split('-')[0];
 }
