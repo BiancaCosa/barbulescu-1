@@ -171,6 +171,7 @@ input, select, textarea {
 
 	#dropdown-translate-index{
 		margin-left: 5.3em;
+		padding: 1em 1em;
 	}
 
 	#dropdown-translate-survey{
@@ -203,7 +204,8 @@ input, select, textarea {
 
 	.signature {
 		text-align: left;
-		margin-left: 2em;
+	
+		padding: 0.5em 1em;
 	}
 
 /* Container */
@@ -2108,7 +2110,8 @@ input, select, textarea {
 		text-align: center;
 		position: relative;
 		padding: 8em 0;
-		margin: 2em 0 0 0;
+		margin: 1em 0 0 0;
+
 	}
 
 		#banner header {
