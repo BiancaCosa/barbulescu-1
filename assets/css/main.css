@@ -161,6 +161,10 @@ input, select, textarea {
 		text-decoration: underline;
 	}
 
+  a.black {
+		color: #000000;
+  }
+
 
 	#goUp-button{
 		display: inline-block;
@@ -204,7 +208,7 @@ input, select, textarea {
 
 	.signature {
 		text-align: left;
-	
+
 		padding: 0.5em 1em;
 	}
 
