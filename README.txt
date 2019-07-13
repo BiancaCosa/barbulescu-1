@@ -2,6 +2,9 @@ Barbulescu Test
 Devscola.org | Nolegaltech.com
 
 
+http://www.nolegaltech/barbulescu
+
+
 * Many jobs today depend on a computer, which is the main working tool for many workers.
 Can companies monitor the communications of their workers through the company's computers? 
 Even when they are private, non-work conversations?
